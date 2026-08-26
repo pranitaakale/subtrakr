@@ -10,7 +10,7 @@ The application follows a simple principle:
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 Subscription spending is often fragmented across multiple services. Small recurring charges can easily go unnoticed, making it difficult for users to understand:
 
@@ -39,27 +39,33 @@ The system then combines financial patterns and user feedback to generate:
 
 ## ✨ Key Features
 
-### 📄 Transaction CSV Upload
+### Transaction CSV Upload
+
 Upload transaction history using a CSV file.
 
-### 🔄 Recurring Payment Detection
+### Recurring Payment Detection
+
 Analyze payment intervals, frequency, and amount consistency to identify likely recurring charges.
 
-### 🏷️ Subscription Review
+### Subscription Review
+
 Review, confirm, or dismiss detected recurring payments to distinguish subscriptions from other recurring expenses.
 
-### 📊 Subscription Value Score
+### Subscription Value Score
+
 Evaluate subscriptions using available financial information and minimal user feedback.
 
-### ⚠️ Renewal Risk Analysis
+### Renewal Risk Analysis
+
 Identify subscriptions that may require attention before their next expected renewal.
 
-### 💬 Explainable Recommendations
+### Explainable Recommendations
+
 Present actionable insights and the factors contributing to each recommendation instead of displaying unexplained scores.
 
 ---
 
-## 🔄 Application Flow
+## Application Flow
 
 ```text
 Transaction CSV
@@ -83,7 +89,7 @@ Subscription Dashboard
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
                     ┌──────────────────────┐
@@ -109,20 +115,23 @@ Subscription Dashboard
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
+
 - Python
 - FastAPI
 - SQLAlchemy
 - SQLite
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
 
 ### Data & Intelligence
+
 - Transaction pattern analysis
 - Recurring payment detection
 - Rule-based / weighted value scoring
@@ -130,7 +139,7 @@ Subscription Dashboard
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
