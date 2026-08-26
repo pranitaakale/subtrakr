@@ -11,4 +11,5 @@ frontend/dist/
 
 # Environment
 .env
+.env.production
 *.env
