@@ -1,0 +1,14 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/subtrackr.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+.npm-cache
+
+# Environment
+.env
+*.env

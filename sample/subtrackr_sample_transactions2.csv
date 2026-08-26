@@ -1,0 +1,101 @@
+transaction_id,user_id,service_name,category,amount,currency,billing_cycle,status,payment_method,start_date,renewal_date
+TXN-1001,USR-103,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Active,Google Pay,2025-07-21,2025-08-21
+TXN-1002,USR-106,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Paused,Apple Pay,2024-08-08,2024-09-08
+TXN-1003,USR-110,GitHub Pro,Developer Tools,40.0,USD,Annual,Cancelled,PayPal,2025-01-21,2026-01-21
+TXN-1004,USR-110,Adobe Creative Cloud,Design,54.99,USD,Monthly,Active,Credit Card,2024-11-27,2024-12-27
+TXN-1005,USR-109,NYTimes,News & Media,40.0,USD,Annual,Active,Apple Pay,2025-04-23,2026-04-23
+TXN-1006,USR-109,ChatGPT Plus,AI Tools,200.0,USD,Annual,Paused,Credit Card,2025-02-07,2026-02-07
+TXN-1007,USR-104,NYTimes,News & Media,4.0,USD,Monthly,Active,Credit Card,2025-05-26,2025-06-26
+TXN-1008,USR-101,NYTimes,News & Media,4.0,USD,Monthly,Cancelled,Google Pay,2025-03-08,2025-04-08
+TXN-1009,USR-104,AWS,Cloud Infrastructure,45.5,USD,Monthly,Cancelled,PayPal,2025-06-06,2025-07-06
+TXN-1010,USR-114,Adobe Creative Cloud,Design,54.99,USD,Monthly,Active,PayPal,2025-02-12,2025-03-12
+TXN-1011,USR-113,AWS,Cloud Infrastructure,45.5,USD,Monthly,Cancelled,Credit Card,2025-05-08,2025-06-08
+TXN-1012,USR-113,Spotify,Music,10.99,USD,Monthly,Active,Credit Card,2024-09-13,2024-10-13
+TXN-1013,USR-111,Netflix,Entertainment,15.99,USD,Monthly,Active,Credit Card,2025-08-12,2025-09-12
+TXN-1014,USR-110,ChatGPT Plus,AI Tools,20.0,USD,Monthly,Active,Debit Card,2024-11-01,2024-12-01
+TXN-1015,USR-107,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Cancelled,Credit Card,2024-02-08,2024-03-08
+TXN-1016,USR-111,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Paused,Debit Card,2025-08-12,2025-09-12
+TXN-1017,USR-107,ChatGPT Plus,AI Tools,20.0,USD,Monthly,Paused,Debit Card,2025-05-01,2025-06-01
+TXN-1018,USR-112,Substack,News & Media,8.0,USD,Monthly,Active,Credit Card,2025-10-15,2025-11-15
+TXN-1019,USR-107,PlayStation Plus,Gaming,17.99,USD,Monthly,Active,Apple Pay,2024-05-04,2024-06-04
+TXN-1020,USR-103,PlayStation Plus,Gaming,17.99,USD,Monthly,Paused,Apple Pay,2024-07-13,2024-08-13
+TXN-1021,USR-112,Adobe Creative Cloud,Design,549.9,USD,Annual,Active,Google Pay,2025-05-25,2026-05-25
+TXN-1022,USR-109,NYTimes,News & Media,4.0,USD,Monthly,Cancelled,Debit Card,2025-07-26,2025-08-26
+TXN-1023,USR-113,iCloud Storage,Cloud Storage,29.9,USD,Annual,Active,Credit Card,2025-09-27,2026-09-27
+TXN-1024,USR-110,Notion,Productivity,10.0,USD,Monthly,Active,Credit Card,2024-01-05,2024-02-05
+TXN-1025,USR-101,NYTimes,News & Media,4.0,USD,Monthly,Active,Credit Card,2025-01-20,2025-02-20
+TXN-1026,USR-108,Slack,Communication,87.5,USD,Annual,Active,Debit Card,2024-05-17,2025-05-17
+TXN-1027,USR-101,Netflix,Entertainment,15.99,USD,Monthly,Active,PayPal,2024-07-22,2024-08-22
+TXN-1028,USR-106,Netflix,Entertainment,15.99,USD,Monthly,Active,Google Pay,2025-10-12,2025-11-12
+TXN-1029,USR-105,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Active,Debit Card,2025-06-17,2025-07-17
+TXN-1030,USR-113,AWS,Cloud Infrastructure,455.0,USD,Annual,Active,Credit Card,2025-11-09,2026-11-09
+TXN-1031,USR-103,ChatGPT Plus,AI Tools,20.0,USD,Monthly,Active,Apple Pay,2024-10-19,2024-11-19
+TXN-1032,USR-107,AWS,Cloud Infrastructure,45.5,USD,Monthly,Cancelled,Credit Card,2025-08-01,2025-09-01
+TXN-1033,USR-107,Spotify,Music,109.9,USD,Annual,Active,Apple Pay,2025-09-25,2026-09-25
+TXN-1034,USR-109,Substack,News & Media,80.0,USD,Annual,Active,Apple Pay,2025-10-16,2026-10-16
+TXN-1035,USR-111,AWS,Cloud Infrastructure,45.5,USD,Monthly,Active,Credit Card,2024-05-16,2024-06-16
+TXN-1036,USR-108,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Active,Debit Card,2025-03-16,2025-04-16
+TXN-1037,USR-106,Adobe Creative Cloud,Design,54.99,USD,Monthly,Cancelled,Debit Card,2025-08-17,2025-09-17
+TXN-1038,USR-102,Google One,Cloud Storage,1.99,USD,Monthly,Active,Credit Card,2024-09-03,2024-10-03
+TXN-1039,USR-104,Disney+,Entertainment,13.99,USD,Monthly,Active,Google Pay,2024-04-09,2024-05-09
+TXN-1040,USR-112,Netflix,Entertainment,15.99,USD,Monthly,Cancelled,Debit Card,2025-01-17,2025-02-17
+TXN-1041,USR-111,Gym Membership,Health & Fitness,49.99,USD,Monthly,Paused,Debit Card,2024-08-22,2024-09-22
+TXN-1042,USR-112,Spotify,Music,10.99,USD,Monthly,Active,Apple Pay,2024-01-15,2024-02-15
+TXN-1043,USR-112,PlayStation Plus,Gaming,17.99,USD,Monthly,Cancelled,Debit Card,2025-01-17,2025-02-17
+TXN-1044,USR-113,Disney+,Entertainment,139.9,USD,Annual,Paused,Debit Card,2025-05-09,2026-05-09
+TXN-1045,USR-113,Netflix,Entertainment,15.99,USD,Monthly,Active,Apple Pay,2024-04-01,2024-05-01
+TXN-1046,USR-106,GitHub Pro,Developer Tools,4.0,USD,Monthly,Active,Debit Card,2025-09-18,2025-10-18
+TXN-1047,USR-110,Slack,Communication,87.5,USD,Annual,Active,PayPal,2025-10-27,2026-10-27
+TXN-1048,USR-110,Netflix,Entertainment,159.9,USD,Annual,Active,Debit Card,2024-07-22,2025-07-22
+TXN-1049,USR-109,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Active,Credit Card,2024-10-24,2024-11-24
+TXN-1050,USR-112,AWS,Cloud Infrastructure,45.5,USD,Monthly,Active,Apple Pay,2024-07-19,2024-08-19
+TXN-1051,USR-110,Spotify,Music,10.99,USD,Monthly,Active,Credit Card,2025-06-26,2025-07-26
+TXN-1052,USR-105,Adobe Creative Cloud,Design,54.99,USD,Monthly,Active,Debit Card,2025-01-05,2025-02-05
+TXN-1053,USR-103,NYTimes,News & Media,4.0,USD,Monthly,Paused,Apple Pay,2025-04-06,2025-05-06
+TXN-1054,USR-108,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Paused,PayPal,2024-03-10,2024-04-10
+TXN-1055,USR-114,Substack,News & Media,8.0,USD,Monthly,Active,PayPal,2024-10-05,2024-11-05
+TXN-1056,USR-101,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Cancelled,Google Pay,2025-10-01,2025-11-01
+TXN-1057,USR-113,Substack,News & Media,8.0,USD,Monthly,Active,Google Pay,2025-01-21,2025-02-21
+TXN-1058,USR-110,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Paused,Google Pay,2025-03-23,2025-04-23
+TXN-1059,USR-101,ChatGPT Plus,AI Tools,20.0,USD,Monthly,Active,Google Pay,2024-05-14,2024-06-14
+TXN-1060,USR-105,Disney+,Entertainment,139.9,USD,Annual,Cancelled,Google Pay,2025-10-12,2026-10-12
+TXN-1061,USR-104,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Paused,PayPal,2024-06-10,2024-07-10
+TXN-1062,USR-101,Spotify,Music,10.99,USD,Monthly,Active,PayPal,2025-10-19,2025-11-19
+TXN-1063,USR-108,Google One,Cloud Storage,1.99,USD,Monthly,Cancelled,PayPal,2025-11-17,2025-12-17
+TXN-1064,USR-105,NYTimes,News & Media,4.0,USD,Monthly,Cancelled,Credit Card,2024-03-01,2024-04-01
+TXN-1065,USR-103,NYTimes,News & Media,4.0,USD,Monthly,Active,PayPal,2024-02-11,2024-03-11
+TXN-1066,USR-110,Spotify,Music,10.99,USD,Monthly,Active,PayPal,2025-10-08,2025-11-08
+TXN-1067,USR-113,Disney+,Entertainment,139.9,USD,Annual,Active,Apple Pay,2025-05-26,2026-05-26
+TXN-1068,USR-110,Gym Membership,Health & Fitness,499.9,USD,Annual,Cancelled,Credit Card,2025-09-21,2026-09-21
+TXN-1069,USR-101,GitHub Pro,Developer Tools,4.0,USD,Monthly,Active,Credit Card,2025-04-03,2025-05-03
+TXN-1070,USR-107,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Paused,Apple Pay,2024-07-17,2024-08-17
+TXN-1071,USR-113,Notion,Productivity,10.0,USD,Monthly,Active,Credit Card,2025-09-20,2025-10-20
+TXN-1072,USR-109,Gym Membership,Health & Fitness,49.99,USD,Monthly,Cancelled,Apple Pay,2025-03-09,2025-04-09
+TXN-1073,USR-103,iCloud Storage,Cloud Storage,29.9,USD,Annual,Cancelled,Debit Card,2024-05-26,2025-05-26
+TXN-1074,USR-109,NYTimes,News & Media,4.0,USD,Monthly,Active,Google Pay,2024-05-04,2024-06-04
+TXN-1075,USR-103,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Active,PayPal,2024-10-07,2024-11-07
+TXN-1076,USR-110,iCloud Storage,Cloud Storage,2.99,USD,Monthly,Active,PayPal,2025-09-15,2025-10-15
+TXN-1077,USR-110,NYTimes,News & Media,40.0,USD,Annual,Paused,PayPal,2024-02-09,2025-02-09
+TXN-1078,USR-104,Spotify,Music,10.99,USD,Monthly,Paused,Debit Card,2025-01-08,2025-02-08
+TXN-1079,USR-112,Netflix,Entertainment,159.9,USD,Annual,Active,Google Pay,2025-04-04,2026-04-04
+TXN-1080,USR-107,Substack,News & Media,8.0,USD,Monthly,Cancelled,Debit Card,2024-10-10,2024-11-10
+TXN-1081,USR-108,Disney+,Entertainment,13.99,USD,Monthly,Paused,PayPal,2025-04-26,2025-05-26
+TXN-1082,USR-112,PlayStation Plus,Gaming,179.9,USD,Annual,Active,Debit Card,2024-09-13,2025-09-13
+TXN-1083,USR-113,Netflix,Entertainment,15.99,USD,Monthly,Active,Google Pay,2025-10-06,2025-11-06
+TXN-1084,USR-103,PlayStation Plus,Gaming,17.99,USD,Monthly,Paused,Google Pay,2025-05-11,2025-06-11
+TXN-1085,USR-106,ChatGPT Plus,AI Tools,200.0,USD,Annual,Active,Credit Card,2024-01-17,2025-01-17
+TXN-1086,USR-108,Adobe Creative Cloud,Design,54.99,USD,Monthly,Active,Debit Card,2025-10-12,2025-11-12
+TXN-1087,USR-104,Adobe Creative Cloud,Design,54.99,USD,Monthly,Cancelled,Google Pay,2025-10-08,2025-11-08
+TXN-1088,USR-111,Slack,Communication,8.75,USD,Monthly,Cancelled,PayPal,2025-09-05,2025-10-05
+TXN-1089,USR-112,Adobe Creative Cloud,Design,54.99,USD,Monthly,Active,Credit Card,2024-04-21,2024-05-21
+TXN-1090,USR-105,PlayStation Plus,Gaming,17.99,USD,Monthly,Active,Google Pay,2024-02-06,2024-03-06
+TXN-1091,USR-108,Substack,News & Media,80.0,USD,Annual,Active,PayPal,2024-05-27,2025-05-27
+TXN-1092,USR-109,Netflix,Entertainment,15.99,USD,Monthly,Active,Credit Card,2025-05-11,2025-06-11
+TXN-1093,USR-103,Adobe Creative Cloud,Design,549.9,USD,Annual,Active,Google Pay,2024-02-01,2025-02-01
+TXN-1094,USR-103,Substack,News & Media,8.0,USD,Monthly,Cancelled,Credit Card,2025-05-05,2025-06-05
+TXN-1095,USR-101,GitHub Pro,Developer Tools,4.0,USD,Monthly,Paused,Google Pay,2024-10-10,2024-11-10
+TXN-1096,USR-101,GitHub Pro,Developer Tools,4.0,USD,Monthly,Active,Debit Card,2025-04-13,2025-05-13
+TXN-1097,USR-110,Netflix,Entertainment,15.99,USD,Monthly,Active,Apple Pay,2025-07-08,2025-08-08
+TXN-1098,USR-112,Spotify,Music,10.99,USD,Monthly,Active,Debit Card,2025-01-18,2025-02-18
+TXN-1099,USR-105,GitHub Pro,Developer Tools,4.0,USD,Monthly,Active,Credit Card,2024-07-17,2024-08-17
+TXN-1100,USR-112,GitHub Pro,Developer Tools,4.0,USD,Monthly,Active,Debit Card,2025-06-07,2025-07-07

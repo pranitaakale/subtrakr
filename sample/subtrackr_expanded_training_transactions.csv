@@ -1,0 +1,2597 @@
+date,description,amount
+2023-12-31,Disney+,14.03
+2024-01-01,Gym Membership,50.21
+2024-01-01,Slack Workspace,8.74
+2024-01-02,AWS Hosting,43.81
+2024-01-03,Google One,1.97
+2024-01-03,Substack VIP,8.0
+2024-01-04,Notion Pro,9.93
+2024-01-04,ChatGPT Plus,19.87
+2024-01-04,Netflix,15.74
+2024-01-05,Gym Membership,49.57
+2024-01-05,AWS Hosting,45.57
+2024-01-07,Spotify,10.95
+2024-01-07,Google One,2.01
+2024-01-09,NYTimes Digital,3.97
+2024-01-09,Adobe Creative Cloud,54.62
+2024-01-10,Google One,2.01
+2024-01-10,Spotify,10.98
+2024-01-11,Target Store,87.75
+2024-01-12,PlayStation Plus,18.21
+2024-01-12,Disney+,14.16
+2024-01-13,Adobe Creative Cloud,55.26
+2024-01-13,Gym Membership,49.13
+2024-01-14,PlayStation Plus,17.88
+2024-01-14,ChatGPT Plus,19.95
+2024-01-14,NYTimes Digital,4.04
+2024-01-14,Google One,1.98
+2024-01-15,Gym Membership,50.7
+2024-01-16,AWS Hosting,44.39
+2024-01-16,CVS Pharmacy,9.3
+2024-01-17,Netflix,16.24
+2024-01-18,Airbnb Booking,269.23
+2024-01-19,Target Store,91.72
+2024-01-19,iCloud Storage,3.06
+2024-01-20,Trader Joe's,103.42
+2024-01-20,Notion Pro,10.13
+2024-01-23,Gym Membership,49.76
+2024-01-23,NYTimes Digital,3.99
+2024-01-23,Notion Pro,10.11
+2024-01-25,Slack Workspace,8.76
+2024-01-27,PlayStation Plus,17.89
+2024-01-27,Disney+,14.19
+2024-01-28,Google One,2.01
+2024-01-30,NYTimes Digital,3.98
+2024-01-30,AWS Hosting,45.0
+2024-01-30,Netflix,15.88
+2024-01-30,Slack Workspace,8.67
+2024-01-31,Slack Workspace,8.79
+2024-01-31,AWS Hosting,44.93
+2024-01-31,Gym Membership,50.44
+2024-01-31,Disney+,14.07
+2024-02-01,Adobe Creative Cloud,55.25
+2024-02-02,ChatGPT Plus,20.01
+2024-02-02,Netflix,15.7
+2024-02-02,AWS Hosting,44.51
+2024-02-02,ChatGPT Plus,19.97
+2024-02-02,Google One,1.97
+2024-02-02,NYTimes Digital,4.03
+2024-02-03,Substack VIP,7.91
+2024-02-03,Notion Pro,10.01
+2024-02-03,Gym Membership,50.05
+2024-02-04,Notion Pro,9.83
+2024-02-05,Substack VIP,8.04
+2024-02-05,Spotify,10.85
+2024-02-05,Slack Workspace,8.74
+2024-02-07,Google One,1.98
+2024-02-07,PlayStation Plus,17.86
+2024-02-08,Netflix,15.81
+2024-02-08,GitHub Pro,3.98
+2024-02-08,Google One,2.0
+2024-02-08,Spotify,10.93
+2024-02-08,NYTimes Digital,4.03
+2024-02-09,Spotify,10.89
+2024-02-09,Disney+,14.18
+2024-02-09,Adobe Creative Cloud,55.11
+2024-02-09,Disney+,13.78
+2024-02-10,Shell Gas Station,32.42
+2024-02-11,GitHub Pro,4.02
+2024-02-11,Google One,2.0
+2024-02-11,Adobe Creative Cloud,55.14
+2024-02-12,Substack VIP,7.99
+2024-02-12,DoorDash Order,21.24
+2024-02-12,PlayStation Plus,18.09
+2024-02-12,Gym Membership,50.19
+2024-02-13,GitHub Pro,3.96
+2024-02-13,ChatGPT Plus,20.12
+2024-02-14,Adobe Creative Cloud,55.62
+2024-02-14,PlayStation Plus,18.2
+2024-02-14,Spotify,10.93
+2024-02-14,NYTimes Digital,3.99
+2024-02-14,Disney+,13.79
+2024-02-15,ChatGPT Plus,20.06
+2024-02-15,Substack VIP,7.99
+2024-02-15,iCloud Storage,2.97
+2024-02-15,iCloud Storage,3.01
+2024-02-15,Notion Pro,10.05
+2024-02-15,AWS Hosting,44.88
+2024-02-16,Gym Membership,49.46
+2024-02-17,iCloud Storage,3.02
+2024-02-17,Netflix,15.86
+2024-02-18,Notion Pro,10.03
+2024-02-18,Starbucks Coffee,4.66
+2024-02-18,ChatGPT Plus,19.98
+2024-02-18,GitHub Pro,4.07
+2024-02-20,Uber Trip,36.57
+2024-02-20,PlayStation Plus,17.97
+2024-02-21,Uber Trip,40.54
+2024-02-21,NYTimes Digital,4.05
+2024-02-21,Uber Trip,19.44
+2024-02-21,Notion Pro,9.89
+2024-02-22,Spotify,10.97
+2024-02-22,Gym Membership,49.82
+2024-02-24,Shell Gas Station,32.23
+2024-02-24,PlayStation Plus,17.84
+2024-02-24,GitHub Pro,3.97
+2024-02-25,Airbnb Booking,326.14
+2024-02-25,Disney+,14.1
+2024-02-25,iCloud Storage,3.0
+2024-02-26,Slack Workspace,8.76
+2024-02-27,Starbucks Coffee,5.51
+2024-02-27,Substack VIP,8.07
+2024-02-27,AWS Hosting,44.87
+2024-02-27,Netflix,16.11
+2024-02-27,Google One,2.01
+2024-02-27,Starbucks Coffee,5.16
+2024-02-28,iCloud Storage,3.02
+2024-02-28,Netflix,16.09
+2024-02-28,Slack Workspace,8.71
+2024-02-29,NYTimes Digital,3.95
+2024-03-01,AWS Hosting,44.98
+2024-03-01,Slack Workspace,8.69
+2024-03-01,Gym Membership,50.3
+2024-03-01,ChatGPT Plus,19.99
+2024-03-01,Adobe Creative Cloud,55.4
+2024-03-01,Disney+,13.96
+2024-03-01,AWS Hosting,45.58
+2024-03-02,Slack Workspace,8.53
+2024-03-03,Adobe Creative Cloud,55.1
+2024-03-03,Substack VIP,8.01
+2024-03-03,NYTimes Digital,3.96
+2024-03-03,Google One,2.0
+2024-03-04,Netflix,15.95
+2024-03-04,Gym Membership,49.65
+2024-03-04,Notion Pro,10.2
+2024-03-04,AWS Hosting,44.63
+2024-03-04,Notion Pro,9.85
+2024-03-05,ChatGPT Plus,19.83
+2024-03-06,Substack VIP,7.85
+2024-03-06,Spotify,10.85
+2024-03-07,GitHub Pro,4.06
+2024-03-07,Slack Workspace,8.77
+2024-03-07,NYTimes Digital,3.95
+2024-03-08,PlayStation Plus,18.0
+2024-03-08,Google One,1.98
+2024-03-08,Spotify,10.84
+2024-03-09,Google One,1.97
+2024-03-09,Netflix,16.04
+2024-03-09,Adobe Creative Cloud,54.94
+2024-03-10,Spotify,10.91
+2024-03-11,Airbnb Booking,303.31
+2024-03-11,Disney+,14.0
+2024-03-11,Uber Trip,23.41
+2024-03-12,Disney+,13.9
+2024-03-12,PlayStation Plus,17.98
+2024-03-13,GitHub Pro,3.99
+2024-03-13,Gym Membership,49.66
+2024-03-13,PlayStation Plus,18.04
+2024-03-13,Substack VIP,7.95
+2024-03-13,Google One,1.98
+2024-03-13,ChatGPT Plus,19.9
+2024-03-13,GitHub Pro,3.94
+2024-03-13,Adobe Creative Cloud,55.48
+2024-03-14,Uber Trip,43.95
+2024-03-14,Spotify,10.88
+2024-03-16,iCloud Storage,3.03
+2024-03-16,Substack VIP,7.94
+2024-03-16,Gym Membership,50.2
+2024-03-16,NYTimes Digital,4.04
+2024-03-16,iCloud Storage,3.0
+2024-03-16,AWS Hosting,45.4
+2024-03-16,ChatGPT Plus,19.77
+2024-03-16,Adobe Creative Cloud,54.6
+2024-03-16,Disney+,13.86
+2024-03-17,Notion Pro,9.85
+2024-03-18,Trader Joe's,40.67
+2024-03-18,Netflix,15.94
+2024-03-18,Target Store,74.8
+2024-03-18,ChatGPT Plus,20.01
+2024-03-19,iCloud Storage,3.04
+2024-03-19,Notion Pro,10.17
+2024-03-19,Best Buy,242.16
+2024-03-19,GitHub Pro,3.97
+2024-03-20,PlayStation Plus,18.24
+2024-03-20,Best Buy,181.72
+2024-03-21,Local Restaurant,81.78
+2024-03-22,Trader Joe's,98.78
+2024-03-22,NYTimes Digital,3.97
+2024-03-22,Notion Pro,10.01
+2024-03-23,Spotify,10.84
+2024-03-24,Gym Membership,50.17
+2024-03-26,GitHub Pro,3.94
+2024-03-26,iCloud Storage,3.0
+2024-03-26,CVS Pharmacy,20.44
+2024-03-26,Disney+,14.21
+2024-03-26,Slack Workspace,8.56
+2024-03-27,Netflix,15.95
+2024-03-27,PlayStation Plus,18.06
+2024-03-28,Google One,1.95
+2024-03-28,AWS Hosting,45.5
+2024-03-29,iCloud Storage,3.05
+2024-03-29,Substack VIP,7.99
+2024-03-29,Netflix,16.15
+2024-03-30,Adobe Creative Cloud,54.78
+2024-03-30,Best Buy,197.09
+2024-03-30,NYTimes Digital,4.06
+2024-03-30,Slack Workspace,8.8
+2024-03-30,AWS Hosting,44.31
+2024-03-31,Adobe Creative Cloud,54.16
+2024-03-31,Gym Membership,51.02
+2024-03-31,Disney+,13.95
+2024-03-31,Slack Workspace,8.77
+2024-03-31,Slack Workspace,8.6
+2024-04-01,ChatGPT Plus,19.89
+2024-04-01,AWS Hosting,45.87
+2024-04-01,Starbucks Coffee,11.45
+2024-04-02,Google One,2.03
+2024-04-02,NYTimes Digital,4.01
+2024-04-02,Amazon Retail,49.04
+2024-04-02,CVS Pharmacy,20.87
+2024-04-02,AWS Hosting,44.39
+2024-04-03,ChatGPT Plus,20.16
+2024-04-03,Netflix,16.07
+2024-04-03,Notion Pro,10.0
+2024-04-03,Notion Pro,9.98
+2024-04-03,Substack VIP,7.94
+2024-04-03,Gym Membership,49.98
+2024-04-04,Best Buy,271.29
+2024-04-04,Substack VIP,7.92
+2024-04-05,Slack Workspace,8.68
+2024-04-05,Spotify,10.77
+2024-04-06,Best Buy,55.99
+2024-04-06,GitHub Pro,3.97
+2024-04-07,PlayStation Plus,17.84
+2024-04-07,Adobe Creative Cloud,54.97
+2024-04-07,Spotify,10.99
+2024-04-07,Google One,1.94
+2024-04-08,Netflix,15.67
+2024-04-08,Google One,2.0
+2024-04-08,Airbnb Booking,164.12
+2024-04-08,NYTimes Digital,4.03
+2024-04-09,Disney+,13.99
+2024-04-10,Spotify,11.02
+2024-04-10,Disney+,14.2
+2024-04-11,PlayStation Plus,17.78
+2024-04-12,PlayStation Plus,17.92
+2024-04-12,Shell Gas Station,48.58
+2024-04-12,Gym Membership,50.01
+2024-04-12,Adobe Creative Cloud,55.04
+2024-04-12,Google One,1.97
+2024-04-12,GitHub Pro,4.01
+2024-04-12,Substack VIP,8.07
+2024-04-13,GitHub Pro,4.01
+2024-04-13,Adobe Creative Cloud,55.09
+2024-04-13,ChatGPT Plus,20.38
+2024-04-14,Spotify,10.96
+2024-04-14,ChatGPT Plus,20.17
+2024-04-14,NYTimes Digital,4.06
+2024-04-15,Substack VIP,7.92
+2024-04-15,DoorDash Order,51.45
+2024-04-15,Gym Membership,50.58
+2024-04-15,AWS Hosting,45.41
+2024-04-16,iCloud Storage,2.96
+2024-04-16,iCloud Storage,2.99
+2024-04-16,Disney+,13.86
+2024-04-17,ChatGPT Plus,20.02
+2024-04-17,Trader Joe's,49.56
+2024-04-17,GitHub Pro,4.02
+2024-04-17,Notion Pro,9.97
+2024-04-17,Netflix,15.89
+2024-04-18,CVS Pharmacy,40.18
+2024-04-18,iCloud Storage,3.02
+2024-04-18,Uber Trip,28.9
+2024-04-18,Notion Pro,10.03
+2024-04-19,Best Buy,256.13
+2024-04-20,NYTimes Digital,3.98
+2024-04-20,PlayStation Plus,17.81
+2024-04-22,Spotify,10.91
+2024-04-23,Gym Membership,50.05
+2024-04-23,Target Store,107.67
+2024-04-23,Amazon Retail,35.4
+2024-04-23,Notion Pro,10.01
+2024-04-23,GitHub Pro,4.07
+2024-04-25,Slack Workspace,8.65
+2024-04-26,AWS Hosting,44.82
+2024-04-26,Disney+,14.08
+2024-04-26,Netflix,15.77
+2024-04-26,PlayStation Plus,17.96
+2024-04-26,iCloud Storage,2.93
+2024-04-26,Uber Trip,31.04
+2024-04-27,Netflix,16.14
+2024-04-27,Trader Joe's,38.72
+2024-04-27,Google One,1.99
+2024-04-28,Substack VIP,7.95
+2024-04-28,Trader Joe's,25.66
+2024-04-28,iCloud Storage,3.03
+2024-04-29,NYTimes Digital,4.02
+2024-04-29,Slack Workspace,8.86
+2024-04-29,Adobe Creative Cloud,54.62
+2024-04-30,AWS Hosting,45.28
+2024-04-30,Slack Workspace,8.72
+2024-04-30,Gym Membership,49.67
+2024-04-30,Disney+,14.02
+2024-04-30,Slack Workspace,8.97
+2024-05-01,ChatGPT Plus,20.21
+2024-05-01,Adobe Creative Cloud,54.53
+2024-05-01,AWS Hosting,45.16
+2024-05-01,CVS Pharmacy,37.09
+2024-05-02,Substack VIP,8.01
+2024-05-02,Notion Pro,9.92
+2024-05-02,Google One,1.99
+2024-05-02,ChatGPT Plus,20.03
+2024-05-03,Gym Membership,49.66
+2024-05-03,Netflix,15.98
+2024-05-03,Substack VIP,7.94
+2024-05-03,NYTimes Digital,3.91
+2024-05-03,Notion Pro,9.84
+2024-05-03,AWS Hosting,44.4
+2024-05-05,Spotify,11.05
+2024-05-05,Slack Workspace,8.72
+2024-05-05,Starbucks Coffee,6.31
+2024-05-06,Google One,1.97
+2024-05-06,PlayStation Plus,18.37
+2024-05-06,GitHub Pro,3.95
+2024-05-07,Adobe Creative Cloud,55.6
+2024-05-07,CVS Pharmacy,9.86
+2024-05-07,Spotify,10.86
+2024-05-08,Google One,1.99
+2024-05-08,Netflix,15.91
+2024-05-08,NYTimes Digital,4.02
+2024-05-08,Spotify,10.92
+2024-05-09,Trader Joe's,104.12
+2024-05-09,Disney+,13.92
+2024-05-09,CVS Pharmacy,13.67
+2024-05-10,Disney+,13.92
+2024-05-10,Starbucks Coffee,7.14
+2024-05-11,Airbnb Booking,289.09
+2024-05-11,GitHub Pro,4.01
+2024-05-11,PlayStation Plus,18.19
+2024-05-11,Delta Airlines,412.21
+2024-05-11,Google One,2.0
+2024-05-11,Shell Gas Station,51.03
+2024-05-12,GitHub Pro,3.92
+2024-05-12,PlayStation Plus,17.74
+2024-05-12,Substack VIP,8.03
+2024-05-12,Adobe Creative Cloud,55.58
+2024-05-12,Gym Membership,49.24
+2024-05-13,Adobe Creative Cloud,54.81
+2024-05-13,CVS Pharmacy,31.49
+2024-05-14,ChatGPT Plus,20.21
+2024-05-14,Gym Membership,51.28
+2024-05-14,iCloud Storage,2.95
+2024-05-14,Spotify,11.12
+2024-05-14,NYTimes Digital,3.99
+2024-05-15,ChatGPT Plus,19.81
+2024-05-15,Disney+,13.98
+2024-05-15,AWS Hosting,44.69
+2024-05-15,Substack VIP,7.93
+2024-05-16,Notion Pro,10.01
+2024-05-16,Netflix,15.91
+2024-05-16,iCloud Storage,2.94
+2024-05-17,Target Store,44.71
+2024-05-17,GitHub Pro,3.97
+2024-05-18,Notion Pro,10.17
+2024-05-18,Uber Trip,40.73
+2024-05-18,ChatGPT Plus,20.39
+2024-05-18,iCloud Storage,2.92
+2024-05-19,Uber Trip,42.55
+2024-05-19,Uber Trip,43.77
+2024-05-20,PlayStation Plus,17.85
+2024-05-21,Spotify,11.01
+2024-05-21,Notion Pro,10.02
+2024-05-22,NYTimes Digital,3.95
+2024-05-23,GitHub Pro,4.03
+2024-05-23,Gym Membership,49.5
+2024-05-24,Starbucks Coffee,8.02
+2024-05-24,Slack Workspace,8.6
+2024-05-25,iCloud Storage,2.96
+2024-05-25,Starbucks Coffee,5.18
+2024-05-25,PlayStation Plus,18.03
+2024-05-26,AWS Hosting,45.12
+2024-05-26,Google One,1.99
+2024-05-27,Netflix,15.83
+2024-05-27,Disney+,13.78
+2024-05-27,Substack VIP,7.98
+2024-05-28,iCloud Storage,3.04
+2024-05-28,Netflix,15.96
+2024-05-28,Adobe Creative Cloud,54.94
+2024-05-29,AWS Hosting,45.16
+2024-05-29,Gym Membership,49.96
+2024-05-29,NYTimes Digital,3.99
+2024-05-29,AWS Hosting,44.98
+2024-05-29,Slack Workspace,8.79
+2024-05-30,Slack Workspace,8.7
+2024-05-30,Adobe Creative Cloud,55.08
+2024-05-31,ChatGPT Plus,19.8
+2024-05-31,Disney+,13.93
+2024-05-31,Slack Workspace,8.58
+2024-06-01,Notion Pro,10.09
+2024-06-01,Google One,1.98
+2024-06-01,Notion Pro,10.1
+2024-06-01,NYTimes Digital,4.03
+2024-06-01,AWS Hosting,44.78
+2024-06-02,Substack VIP,8.08
+2024-06-02,ChatGPT Plus,20.11
+2024-06-02,Gym Membership,50.38
+2024-06-02,Netflix,15.92
+2024-06-03,Slack Workspace,8.81
+2024-06-03,Substack VIP,8.09
+2024-06-05,Spotify,11.09
+2024-06-05,Uber Trip,23.51
+2024-06-05,NYTimes Digital,4.06
+2024-06-06,Google One,1.95
+2024-06-06,Google One,2.0
+2024-06-06,PlayStation Plus,18.18
+2024-06-06,CVS Pharmacy,41.14
+2024-06-07,Spotify,11.12
+2024-06-07,Adobe Creative Cloud,56.18
+2024-06-07,GitHub Pro,4.0
+2024-06-08,Netflix,15.9
+2024-06-08,Spotify,11.09
+2024-06-09,PlayStation Plus,18.07
+2024-06-09,Disney+,13.94
+2024-06-09,Disney+,13.75
+2024-06-10,GitHub Pro,4.03
+2024-06-11,Google One,1.98
+2024-06-11,ChatGPT Plus,19.83
+2024-06-11,Adobe Creative Cloud,54.71
+2024-06-11,PlayStation Plus,18.11
+2024-06-11,Substack VIP,7.82
+2024-06-12,Gym Membership,50.73
+2024-06-12,Best Buy,176.74
+2024-06-12,Spotify,11.05
+2024-06-12,GitHub Pro,4.04
+2024-06-13,NYTimes Digital,3.97
+2024-06-14,Gym Membership,49.59
+2024-06-14,iCloud Storage,3.0
+2024-06-14,ChatGPT Plus,20.24
+2024-06-14,Adobe Creative Cloud,54.65
+2024-06-14,Substack VIP,7.99
+2024-06-14,AWS Hosting,44.25
+2024-06-15,Disney+,14.12
+2024-06-16,Netflix,15.73
+2024-06-16,Notion Pro,9.95
+2024-06-16,iCloud Storage,2.99
+2024-06-17,iCloud Storage,2.97
+2024-06-17,GitHub Pro,3.99
+2024-06-18,Notion Pro,9.91
+2024-06-18,ChatGPT Plus,20.04
+2024-06-19,PlayStation Plus,18.12
+2024-06-20,NYTimes Digital,3.97
+2024-06-21,Spotify,10.78
+2024-06-22,Notion Pro,10.03
+2024-06-22,Gym Membership,49.54
+2024-06-23,GitHub Pro,4.02
+2024-06-24,Starbucks Coffee,6.31
+2024-06-24,Slack Workspace,8.68
+2024-06-24,PlayStation Plus,18.01
+2024-06-24,iCloud Storage,3.01
+2024-06-25,Google One,1.97
+2024-06-25,Netflix,16.3
+2024-06-25,AWS Hosting,45.68
+2024-06-25,Disney+,14.07
+2024-06-26,Netflix,15.89
+2024-06-27,Substack VIP,7.93
+2024-06-27,iCloud Storage,2.98
+2024-06-28,NYTimes Digital,4.0
+2024-06-28,Adobe Creative Cloud,55.14
+2024-06-28,AWS Hosting,44.99
+2024-06-28,Slack Workspace,8.59
+2024-06-28,Delta Airlines,341.23
+2024-06-29,Slack Workspace,8.83
+2024-06-29,Disney+,14.08
+2024-06-29,Slack Workspace,8.73
+2024-06-30,AWS Hosting,45.39
+2024-06-30,ChatGPT Plus,19.69
+2024-06-30,Gym Membership,49.75
+2024-06-30,Adobe Creative Cloud,54.89
+2024-07-01,Gym Membership,49.71
+2024-07-01,NYTimes Digital,4.0
+2024-07-02,ChatGPT Plus,20.17
+2024-07-02,Substack VIP,8.17
+2024-07-02,Notion Pro,9.95
+2024-07-02,Notion Pro,10.17
+2024-07-02,Google One,2.0
+2024-07-03,AWS Hosting,45.26
+2024-07-03,Netflix,16.11
+2024-07-03,Spotify,10.95
+2024-07-04,Substack VIP,7.99
+2024-07-04,Slack Workspace,8.92
+2024-07-04,Google One,2.01
+2024-07-05,Spotify,10.94
+2024-07-06,NYTimes Digital,4.04
+2024-07-06,Google One,1.99
+2024-07-06,GitHub Pro,4.01
+2024-07-06,Adobe Creative Cloud,55.36
+2024-07-07,PlayStation Plus,17.85
+2024-07-08,Disney+,13.9
+2024-07-08,Netflix,15.91
+2024-07-08,Spotify,10.94
+2024-07-10,Disney+,14.01
+2024-07-10,Gym Membership,49.74
+2024-07-10,PlayStation Plus,17.99
+2024-07-10,Shell Gas Station,35.35
+2024-07-11,GitHub Pro,4.02
+2024-07-11,Google One,2.0
+2024-07-11,ChatGPT Plus,19.76
+2024-07-11,Best Buy,271.06
+2024-07-11,Airbnb Booking,357.75
+2024-07-12,Substack VIP,8.02
+2024-07-12,Spotify,11.11
+2024-07-12,GitHub Pro,3.99
+2024-07-12,Adobe Creative Cloud,55.77
+2024-07-12,PlayStation Plus,18.06
+2024-07-13,Adobe Creative Cloud,55.99
+2024-07-13,iCloud Storage,2.94
+2024-07-13,NYTimes Digital,4.02
+2024-07-14,ChatGPT Plus,20.13
+2024-07-14,AWS Hosting,45.04
+2024-07-14,Disney+,14.09
+2024-07-14,Notion Pro,10.04
+2024-07-14,Substack VIP,7.99
+2024-07-15,Gym Membership,50.29
+2024-07-15,iCloud Storage,2.99
+2024-07-16,Netflix,16.02
+2024-07-17,ChatGPT Plus,19.84
+2024-07-17,iCloud Storage,2.98
+2024-07-17,Notion Pro,9.82
+2024-07-17,GitHub Pro,4.03
+2024-07-18,Best Buy,235.99
+2024-07-19,Trader Joe's,25.53
+2024-07-19,PlayStation Plus,17.83
+2024-07-20,NYTimes Digital,3.92
+2024-07-21,Spotify,11.03
+2024-07-22,Gym Membership,49.46
+2024-07-22,Notion Pro,9.82
+2024-07-23,PlayStation Plus,18.03
+2024-07-24,GitHub Pro,3.92
+2024-07-24,Target Store,71.72
+2024-07-24,Slack Workspace,8.94
+2024-07-25,Google One,1.98
+2024-07-25,DoorDash Order,31.71
+2024-07-25,Disney+,14.04
+2024-07-25,iCloud Storage,3.0
+2024-07-25,Target Store,101.21
+2024-07-26,AWS Hosting,45.21
+2024-07-26,Netflix,15.97
+2024-07-26,Substack VIP,8.0
+2024-07-27,Netflix,16.04
+2024-07-27,NYTimes Digital,4.06
+2024-07-27,iCloud Storage,2.96
+2024-07-28,Amazon Retail,72.97
+2024-07-28,AWS Hosting,44.57
+2024-07-28,Disney+,13.91
+2024-07-28,Slack Workspace,8.77
+2024-07-29,Gym Membership,49.51
+2024-07-29,Adobe Creative Cloud,54.74
+2024-07-29,Slack Workspace,8.73
+2024-07-29,AWS Hosting,44.89
+2024-07-30,Adobe Creative Cloud,54.02
+2024-07-30,Google One,1.97
+2024-07-30,ChatGPT Plus,20.56
+2024-07-30,Substack VIP,8.05
+2024-07-30,Slack Workspace,8.81
+2024-07-31,Netflix,15.84
+2024-07-31,NYTimes Digital,3.99
+2024-08-01,Gym Membership,49.9
+2024-08-01,Notion Pro,9.96
+2024-08-01,Notion Pro,9.85
+2024-08-01,AWS Hosting,44.38
+2024-08-01,ChatGPT Plus,20.19
+2024-08-02,Substack VIP,8.03
+2024-08-02,Slack Workspace,8.68
+2024-08-02,Delta Airlines,335.56
+2024-08-03,Spotify,10.96
+2024-08-04,Airbnb Booking,236.65
+2024-08-05,GitHub Pro,4.07
+2024-08-05,PlayStation Plus,17.89
+2024-08-05,Google One,1.98
+2024-08-05,NYTimes Digital,3.97
+2024-08-05,Netflix,16.03
+2024-08-06,Spotify,10.92
+2024-08-06,Adobe Creative Cloud,54.42
+2024-08-06,Uber Trip,40.04
+2024-08-07,Spotify,10.99
+2024-08-07,Google One,2.0
+2024-08-07,Disney+,13.9
+2024-08-08,Starbucks Coffee,7.4
+2024-08-08,Disney+,13.98
+2024-08-09,GitHub Pro,4.03
+2024-08-09,Google One,2.01
+2024-08-10,PlayStation Plus,17.96
+2024-08-10,Adobe Creative Cloud,55.5
+2024-08-10,Gym Membership,50.27
+2024-08-11,PlayStation Plus,18.03
+2024-08-11,GitHub Pro,3.98
+2024-08-11,ChatGPT Plus,19.68
+2024-08-11,Spotify,10.8
+2024-08-11,Substack VIP,8.06
+2024-08-12,NYTimes Digital,4.09
+2024-08-12,Adobe Creative Cloud,54.82
+2024-08-12,ChatGPT Plus,20.32
+2024-08-12,Gym Membership,50.07
+2024-08-13,iCloud Storage,2.99
+2024-08-13,Substack VIP,8.03
+2024-08-13,AWS Hosting,44.82
+2024-08-13,Trader Joe's,89.28
+2024-08-13,Disney+,13.74
+2024-08-13,Starbucks Coffee,9.13
+2024-08-13,Best Buy,220.65
+2024-08-13,Notion Pro,9.88
+2024-08-14,iCloud Storage,2.99
+2024-08-15,Trader Joe's,103.02
+2024-08-16,Uber Trip,34.81
+2024-08-16,Notion Pro,10.09
+2024-08-16,GitHub Pro,4.01
+2024-08-16,ChatGPT Plus,20.04
+2024-08-16,Netflix,16.03
+2024-08-16,iCloud Storage,2.99
+2024-08-18,Delta Airlines,551.01
+2024-08-19,Trader Joe's,105.22
+2024-08-19,NYTimes Digital,4.03
+2024-08-19,PlayStation Plus,18.39
+2024-08-20,Notion Pro,10.03
+2024-08-20,Trader Joe's,43.63
+2024-08-20,Gym Membership,49.02
+2024-08-21,GitHub Pro,4.0
+2024-08-21,Spotify,10.89
+2024-08-22,Slack Workspace,8.77
+2024-08-22,DoorDash Order,26.13
+2024-08-23,Starbucks Coffee,7.1
+2024-08-24,iCloud Storage,2.97
+2024-08-24,PlayStation Plus,18.39
+2024-08-24,Substack VIP,7.93
+2024-08-24,Disney+,14.14
+2024-08-25,Google One,2.02
+2024-08-25,Trader Joe's,70.24
+2024-08-25,Netflix,15.88
+2024-08-25,Airbnb Booking,287.96
+2024-08-26,Netflix,16.15
+2024-08-26,AWS Hosting,45.66
+2024-08-27,iCloud Storage,2.97
+2024-08-27,NYTimes Digital,4.12
+2024-08-27,Slack Workspace,8.75
+2024-08-27,Adobe Creative Cloud,55.1
+2024-08-27,AWS Hosting,45.46
+2024-08-27,AWS Hosting,45.65
+2024-08-28,Disney+,13.84
+2024-08-28,Adobe Creative Cloud,55.27
+2024-08-28,Slack Workspace,8.68
+2024-08-28,Slack Workspace,8.73
+2024-08-29,Gym Membership,49.5
+2024-08-29,ChatGPT Plus,20.06
+2024-08-29,NYTimes Digital,4.02
+2024-08-30,Netflix,15.91
+2024-08-30,Substack VIP,7.96
+2024-08-30,Google One,1.99
+2024-08-31,Notion Pro,9.9
+2024-08-31,Notion Pro,9.95
+2024-08-31,AWS Hosting,45.65
+2024-08-31,Gym Membership,49.76
+2024-08-31,ChatGPT Plus,19.85
+2024-09-01,Spotify,10.85
+2024-09-02,Slack Workspace,8.78
+2024-09-02,Substack VIP,8.06
+2024-09-04,PlayStation Plus,18.03
+2024-09-04,GitHub Pro,4.04
+2024-09-04,Trader Joe's,52.26
+2024-09-04,Google One,1.99
+2024-09-04,Airbnb Booking,179.27
+2024-09-04,Spotify,11.14
+2024-09-04,Google One,1.99
+2024-09-04,NYTimes Digital,3.91
+2024-09-05,Netflix,15.68
+2024-09-06,Spotify,10.8
+2024-09-06,Disney+,14.17
+2024-09-06,Adobe Creative Cloud,54.87
+2024-09-07,Disney+,14.06
+2024-09-07,PlayStation Plus,17.87
+2024-09-08,Amazon Retail,62.4
+2024-09-08,Adobe Creative Cloud,55.16
+2024-09-09,GitHub Pro,4.01
+2024-09-09,Google One,1.98
+2024-09-09,Substack VIP,7.92
+2024-09-09,CVS Pharmacy,32.36
+2024-09-10,Spotify,10.96
+2024-09-10,PlayStation Plus,18.22
+2024-09-10,GitHub Pro,4.0
+2024-09-10,Gym Membership,49.11
+2024-09-11,NYTimes Digital,3.99
+2024-09-11,ChatGPT Plus,19.9
+2024-09-11,Adobe Creative Cloud,54.63
+2024-09-11,ChatGPT Plus,20.05
+2024-09-11,Substack VIP,8.0
+2024-09-12,Gym Membership,50.65
+2024-09-12,Notion Pro,10.02
+2024-09-13,iCloud Storage,3.0
+2024-09-13,Disney+,14.03
+2024-09-13,iCloud Storage,2.97
+2024-09-13,AWS Hosting,45.66
+2024-09-13,Netflix,16.12
+2024-09-14,Shell Gas Station,30.32
+2024-09-14,iCloud Storage,2.95
+2024-09-15,ChatGPT Plus,20.32
+2024-09-16,Notion Pro,9.87
+2024-09-16,GitHub Pro,3.91
+2024-09-18,PlayStation Plus,18.07
+2024-09-19,NYTimes Digital,4.08
+2024-09-19,Notion Pro,10.04
+2024-09-19,Spotify,11.04
+2024-09-21,CVS Pharmacy,36.93
+2024-09-21,Gym Membership,49.63
+2024-09-21,DoorDash Order,44.03
+2024-09-22,Slack Workspace,8.79
+2024-09-22,iCloud Storage,2.99
+2024-09-22,GitHub Pro,3.99
+2024-09-22,Delta Airlines,178.13
+2024-09-23,Disney+,14.15
+2024-09-23,Google One,2.0
+2024-09-23,Netflix,15.91
+2024-09-23,PlayStation Plus,17.92
+2024-09-23,Amazon Retail,96.71
+2024-09-23,Delta Airlines,466.95
+2024-09-24,Substack VIP,7.97
+2024-09-24,Netflix,15.96
+2024-09-25,iCloud Storage,2.95
+2024-09-25,AWS Hosting,45.6
+2024-09-25,Adobe Creative Cloud,55.4
+2024-09-25,Trader Joe's,71.31
+2024-09-25,AWS Hosting,44.24
+2024-09-26,Slack Workspace,8.76
+2024-09-27,NYTimes Digital,3.98
+2024-09-27,Slack Workspace,8.78
+2024-09-27,Disney+,14.09
+2024-09-27,Gym Membership,50.22
+2024-09-27,AWS Hosting,45.14
+2024-09-28,Adobe Creative Cloud,54.88
+2024-09-28,Slack Workspace,8.86
+2024-09-28,ChatGPT Plus,19.95
+2024-09-29,Local Restaurant,77.37
+2024-09-29,Google One,1.97
+2024-09-29,Local Restaurant,39.38
+2024-09-29,Substack VIP,7.98
+2024-09-29,NYTimes Digital,3.99
+2024-09-29,AWS Hosting,45.29
+2024-09-30,Netflix,16.02
+2024-09-30,ChatGPT Plus,20.06
+2024-09-30,Notion Pro,9.98
+2024-09-30,Notion Pro,9.96
+2024-10-01,DoorDash Order,62.57
+2024-10-01,Gym Membership,50.03
+2024-10-01,Substack VIP,8.08
+2024-10-02,Slack Workspace,8.81
+2024-10-02,Google One,1.98
+2024-10-03,Spotify,11.09
+2024-10-04,GitHub Pro,4.06
+2024-10-04,Airbnb Booking,356.92
+2024-10-04,PlayStation Plus,17.96
+2024-10-04,Netflix,16.12
+2024-10-05,NYTimes Digital,3.99
+2024-10-05,Amazon Retail,46.03
+2024-10-05,Spotify,11.15
+2024-10-06,Google One,1.98
+2024-10-06,Adobe Creative Cloud,55.6
+2024-10-06,Disney+,14.02
+2024-10-07,Disney+,14.18
+2024-10-07,Spotify,11.05
+2024-10-08,Trader Joe's,97.33
+2024-10-08,PlayStation Plus,17.94
+2024-10-09,Adobe Creative Cloud,54.84
+2024-10-09,Google One,2.0
+2024-10-09,Spotify,11.07
+2024-10-09,Uber Trip,20.87
+2024-10-09,DoorDash Order,35.62
+2024-10-09,GitHub Pro,4.04
+2024-10-09,Gym Membership,50.63
+2024-10-09,Substack VIP,8.13
+2024-10-10,Local Restaurant,34.29
+2024-10-10,Uber Trip,20.12
+2024-10-10,GitHub Pro,4.01
+2024-10-10,ChatGPT Plus,20.15
+2024-10-10,PlayStation Plus,18.14
+2024-10-11,NYTimes Digital,4.01
+2024-10-11,Adobe Creative Cloud,55.11
+2024-10-12,AWS Hosting,44.23
+2024-10-12,Gym Membership,49.84
+2024-10-12,Substack VIP,8.01
+2024-10-12,iCloud Storage,2.97
+2024-10-12,ChatGPT Plus,19.8
+2024-10-13,Disney+,14.12
+2024-10-13,iCloud Storage,2.93
+2024-10-13,Netflix,16.2
+2024-10-14,GitHub Pro,3.92
+2024-10-14,Notion Pro,9.95
+2024-10-15,Notion Pro,9.88
+2024-10-16,iCloud Storage,2.94
+2024-10-16,ChatGPT Plus,20.08
+2024-10-17,PlayStation Plus,17.88
+2024-10-17,Shell Gas Station,56.85
+2024-10-18,Notion Pro,9.94
+2024-10-18,NYTimes Digital,3.96
+2024-10-19,Starbucks Coffee,5.39
+2024-10-20,Gym Membership,49.75
+2024-10-20,Shell Gas Station,31.1
+2024-10-20,Spotify,10.98
+2024-10-20,GitHub Pro,3.87
+2024-10-21,Slack Workspace,8.74
+2024-10-22,Trader Joe's,48.75
+2024-10-22,PlayStation Plus,17.99
+2024-10-22,iCloud Storage,2.99
+2024-10-22,Disney+,14.0
+2024-10-23,Substack VIP,8.02
+2024-10-23,Google One,1.98
+2024-10-24,Netflix,16.03
+2024-10-24,iCloud Storage,3.03
+2024-10-24,AWS Hosting,44.49
+2024-10-25,Adobe Creative Cloud,55.53
+2024-10-25,NYTimes Digital,4.01
+2024-10-26,Netflix,15.92
+2024-10-26,Slack Workspace,8.85
+2024-10-27,Slack Workspace,8.77
+2024-10-27,AWS Hosting,44.88
+2024-10-28,Substack VIP,7.87
+2024-10-28,Gym Membership,50.15
+2024-10-28,Google One,1.94
+2024-10-28,Slack Workspace,8.86
+2024-10-28,Adobe Creative Cloud,54.46
+2024-10-28,AWS Hosting,45.42
+2024-10-28,ChatGPT Plus,20.17
+2024-10-28,Disney+,14.15
+2024-10-29,NYTimes Digital,4.04
+2024-10-29,ChatGPT Plus,19.45
+2024-10-30,AWS Hosting,44.87
+2024-10-30,Notion Pro,9.86
+2024-10-30,Netflix,16.05
+2024-10-31,Notion Pro,9.99
+2024-10-31,Substack VIP,7.92
+2024-10-31,Gym Membership,50.73
+2024-11-02,Spotify,10.84
+2024-11-02,Slack Workspace,8.72
+2024-11-02,Target Store,25.0
+2024-11-02,Google One,1.99
+2024-11-03,GitHub Pro,4.07
+2024-11-03,NYTimes Digital,3.96
+2024-11-03,PlayStation Plus,17.75
+2024-11-03,Spotify,10.89
+2024-11-04,Netflix,15.75
+2024-11-04,Disney+,14.01
+2024-11-04,Google One,1.99
+2024-11-04,Adobe Creative Cloud,55.62
+2024-11-05,Spotify,10.97
+2024-11-05,Local Restaurant,53.18
+2024-11-06,Shell Gas Station,31.48
+2024-11-06,CVS Pharmacy,9.13
+2024-11-07,Disney+,14.05
+2024-11-08,Gym Membership,50.33
+2024-11-08,PlayStation Plus,17.76
+2024-11-08,Adobe Creative Cloud,54.62
+2024-11-08,GitHub Pro,4.06
+2024-11-08,GitHub Pro,3.99
+2024-11-09,Google One,2.0
+2024-11-09,NYTimes Digital,4.0
+2024-11-09,PlayStation Plus,17.81
+2024-11-09,Amazon Retail,97.0
+2024-11-09,ChatGPT Plus,19.7
+2024-11-09,Substack VIP,7.92
+2024-11-09,Spotify,11.01
+2024-11-10,Adobe Creative Cloud,56.06
+2024-11-10,Disney+,13.68
+2024-11-10,Best Buy,182.07
+2024-11-11,Substack VIP,7.99
+2024-11-11,Gym Membership,49.01
+2024-11-11,AWS Hosting,45.13
+2024-11-11,iCloud Storage,3.0
+2024-11-12,ChatGPT Plus,19.97
+2024-11-12,iCloud Storage,3.02
+2024-11-13,Notion Pro,10.06
+2024-11-13,Notion Pro,9.95
+2024-11-13,Netflix,15.85
+2024-11-13,Trader Joe's,25.23
+2024-11-14,ChatGPT Plus,19.84
+2024-11-14,iCloud Storage,2.92
+2024-11-15,GitHub Pro,4.0
+2024-11-15,PlayStation Plus,18.15
+2024-11-16,Starbucks Coffee,11.67
+2024-11-17,NYTimes Digital,4.01
+2024-11-19,Spotify,11.06
+2024-11-19,Notion Pro,9.82
+2024-11-19,Gym Membership,50.04
+2024-11-20,GitHub Pro,3.94
+2024-11-20,iCloud Storage,3.0
+2024-11-20,Uber Trip,20.94
+2024-11-21,Disney+,13.95
+2024-11-21,PlayStation Plus,17.82
+2024-11-22,Substack VIP,8.09
+2024-11-22,Slack Workspace,8.65
+2024-11-22,AWS Hosting,44.64
+2024-11-23,Google One,1.99
+2024-11-23,Netflix,15.98
+2024-11-24,Netflix,15.74
+2024-11-24,iCloud Storage,2.96
+2024-11-24,NYTimes Digital,3.99
+2024-11-24,CVS Pharmacy,23.04
+2024-11-25,Disney+,13.96
+2024-11-25,Slack Workspace,8.95
+2024-11-25,Adobe Creative Cloud,56.1
+2024-11-26,AWS Hosting,45.44
+2024-11-26,AWS Hosting,44.9
+2024-11-26,Slack Workspace,8.73
+2024-11-26,Gym Membership,49.97
+2024-11-27,Adobe Creative Cloud,54.52
+2024-11-27,Substack VIP,8.01
+2024-11-27,ChatGPT Plus,19.73
+2024-11-27,Slack Workspace,8.84
+2024-11-28,Google One,1.98
+2024-11-28,NYTimes Digital,3.98
+2024-11-29,ChatGPT Plus,20.05
+2024-11-29,Netflix,15.85
+2024-11-29,Notion Pro,10.04
+2024-11-29,Gym Membership,50.17
+2024-11-30,Notion Pro,9.88
+2024-11-30,Substack VIP,7.98
+2024-11-30,AWS Hosting,44.37
+2024-12-01,Slack Workspace,8.64
+2024-12-01,Spotify,11.19
+2024-12-02,Trader Joe's,96.32
+2024-12-02,NYTimes Digital,4.02
+2024-12-03,Google One,2.03
+2024-12-03,GitHub Pro,4.03
+2024-12-03,Spotify,10.91
+2024-12-04,Spotify,10.92
+2024-12-04,PlayStation Plus,18.16
+2024-12-04,Netflix,16.03
+2024-12-04,Google One,2.0
+2024-12-05,Adobe Creative Cloud,54.99
+2024-12-05,Disney+,13.97
+2024-12-05,Delta Airlines,448.51
+2024-12-05,Disney+,14.1
+2024-12-06,PlayStation Plus,18.01
+2024-12-07,Substack VIP,7.99
+2024-12-08,GitHub Pro,4.01
+2024-12-08,Spotify,10.78
+2024-12-08,Gym Membership,49.89
+2024-12-08,Google One,1.98
+2024-12-09,Adobe Creative Cloud,53.97
+2024-12-09,GitHub Pro,3.98
+2024-12-09,ChatGPT Plus,20.23
+2024-12-10,NYTimes Digital,3.98
+2024-12-10,PlayStation Plus,18.03
+2024-12-10,AWS Hosting,45.14
+2024-12-10,Adobe Creative Cloud,55.44
+2024-12-10,iCloud Storage,2.98
+2024-12-10,Disney+,13.9
+2024-12-11,Gym Membership,49.44
+2024-12-11,ChatGPT Plus,20.51
+2024-12-11,Substack VIP,8.01
+2024-12-11,iCloud Storage,3.06
+2024-12-13,Netflix,16.03
+2024-12-13,Notion Pro,9.92
+2024-12-14,GitHub Pro,3.95
+2024-12-14,Notion Pro,9.86
+2024-12-14,ChatGPT Plus,19.97
+2024-12-14,iCloud Storage,2.97
+2024-12-14,Delta Airlines,384.24
+2024-12-16,Delta Airlines,370.96
+2024-12-16,PlayStation Plus,17.89
+2024-12-16,NYTimes Digital,4.04
+2024-12-17,DoorDash Order,40.74
+2024-12-17,Spotify,11.07
+2024-12-17,Notion Pro,10.14
+2024-12-18,Gym Membership,49.42
+2024-12-20,Best Buy,296.37
+2024-12-20,PlayStation Plus,17.81
+2024-12-20,iCloud Storage,2.99
+2024-12-20,GitHub Pro,4.04
+2024-12-21,Disney+,14.07
+2024-12-21,Slack Workspace,8.6
+2024-12-23,Substack VIP,8.09
+2024-12-23,Google One,1.98
+2024-12-23,Netflix,15.99
+2024-12-23,AWS Hosting,45.68
+2024-12-24,AWS Hosting,45.16
+2024-12-24,iCloud Storage,3.01
+2024-12-24,Netflix,16.09
+2024-12-25,NYTimes Digital,4.02
+2024-12-25,Gym Membership,50.43
+2024-12-25,Adobe Creative Cloud,54.58
+2024-12-25,Slack Workspace,8.78
+2024-12-26,AWS Hosting,45.13
+2024-12-26,Slack Workspace,8.63
+2024-12-26,Slack Workspace,8.78
+2024-12-26,ChatGPT Plus,20.19
+2024-12-26,Disney+,13.72
+2024-12-28,Google One,1.99
+2024-12-28,Notion Pro,10.07
+2024-12-28,NYTimes Digital,4.01
+2024-12-28,Substack VIP,8.09
+2024-12-28,Adobe Creative Cloud,55.02
+2024-12-28,Gym Membership,49.7
+2024-12-29,Netflix,15.83
+2024-12-29,Substack VIP,8.04
+2024-12-30,AWS Hosting,45.01
+2024-12-30,ChatGPT Plus,19.82
+2024-12-30,Notion Pro,9.79
+2024-12-30,Amazon Retail,37.0
+2024-12-31,Spotify,11.13
+2024-12-31,Airbnb Booking,218.33
+2024-12-31,Starbucks Coffee,6.82
+2025-01-01,Google One,2.0
+2025-01-01,Slack Workspace,8.68
+2025-01-02,GitHub Pro,3.99
+2025-01-02,Airbnb Booking,431.75
+2025-01-02,PlayStation Plus,17.98
+2025-01-03,Adobe Creative Cloud,55.74
+2025-01-03,Google One,1.99
+2025-01-03,Spotify,10.78
+2025-01-03,NYTimes Digital,3.99
+2025-01-03,Netflix,15.87
+2025-01-04,Disney+,13.99
+2025-01-04,Spotify,11.09
+2025-01-05,Disney+,13.79
+2025-01-06,PlayStation Plus,18.27
+2025-01-06,Substack VIP,7.89
+2025-01-06,Google One,1.99
+2025-01-07,Gym Membership,49.56
+2025-01-07,GitHub Pro,3.99
+2025-01-07,Amazon Retail,89.28
+2025-01-07,Adobe Creative Cloud,54.83
+2025-01-07,GitHub Pro,4.01
+2025-01-08,PlayStation Plus,18.24
+2025-01-09,Substack VIP,8.1
+2025-01-09,Spotify,10.97
+2025-01-09,ChatGPT Plus,20.34
+2025-01-09,NYTimes Digital,3.91
+2025-01-10,AWS Hosting,45.32
+2025-01-10,Adobe Creative Cloud,55.33
+2025-01-10,iCloud Storage,2.92
+2025-01-10,Gym Membership,49.57
+2025-01-11,Disney+,14.01
+2025-01-11,iCloud Storage,2.95
+2025-01-11,Local Restaurant,36.49
+2025-01-11,ChatGPT Plus,20.1
+2025-01-12,Notion Pro,9.78
+2025-01-12,GitHub Pro,4.01
+2025-01-12,Netflix,16.05
+2025-01-12,Notion Pro,10.01
+2025-01-12,Amazon Retail,113.19
+2025-01-13,ChatGPT Plus,19.81
+2025-01-13,iCloud Storage,3.01
+2025-01-14,Shell Gas Station,59.25
+2025-01-15,PlayStation Plus,18.14
+2025-01-16,Delta Airlines,355.91
+2025-01-16,Trader Joe's,28.26
+2025-01-16,NYTimes Digital,4.07
+2025-01-17,Notion Pro,10.13
+2025-01-17,Spotify,10.98
+2025-01-18,Gym Membership,50.36
+2025-01-18,Airbnb Booking,142.5
+2025-01-18,Amazon Retail,108.82
+2025-01-19,GitHub Pro,3.99
+2025-01-19,Slack Workspace,8.66
+2025-01-20,PlayStation Plus,17.98
+2025-01-20,iCloud Storage,3.0
+2025-01-21,AWS Hosting,44.48
+2025-01-21,Substack VIP,8.04
+2025-01-21,Netflix,15.72
+2025-01-21,Disney+,13.98
+2025-01-22,Netflix,16.04
+2025-01-22,Google One,2.01
+2025-01-24,AWS Hosting,45.78
+2025-01-24,Slack Workspace,8.73
+2025-01-24,NYTimes Digital,4.05
+2025-01-24,AWS Hosting,45.79
+2025-01-24,Gym Membership,49.95
+2025-01-24,iCloud Storage,2.98
+2025-01-25,Adobe Creative Cloud,54.64
+2025-01-25,Trader Joe's,41.93
+2025-01-25,Disney+,13.95
+2025-01-25,Slack Workspace,8.75
+2025-01-25,ChatGPT Plus,20.25
+2025-01-25,Slack Workspace,8.68
+2025-01-26,NYTimes Digital,4.07
+2025-01-26,Substack VIP,8.07
+2025-01-26,Google One,2.01
+2025-01-27,Netflix,16.06
+2025-01-27,Adobe Creative Cloud,54.64
+2025-01-28,Notion Pro,9.89
+2025-01-28,Gym Membership,49.7
+2025-01-28,ChatGPT Plus,19.96
+2025-01-28,AWS Hosting,44.85
+2025-01-29,Notion Pro,9.96
+2025-01-29,Substack VIP,8.13
+2025-01-29,Spotify,10.91
+2025-01-30,Slack Workspace,8.87
+2025-01-31,NYTimes Digital,4.03
+2025-01-31,PlayStation Plus,17.56
+2025-01-31,Starbucks Coffee,9.37
+2025-01-31,Google One,1.97
+2025-02-01,DoorDash Order,55.86
+2025-02-01,Adobe Creative Cloud,54.95
+2025-02-01,GitHub Pro,4.08
+2025-02-01,Shell Gas Station,50.22
+2025-02-02,Netflix,15.9
+2025-02-02,Spotify,11.15
+2025-02-03,Disney+,14.16
+2025-02-03,Google One,2.0
+2025-02-04,PlayStation Plus,18.17
+2025-02-04,Disney+,13.95
+2025-02-04,Spotify,11.07
+2025-02-05,Trader Joe's,36.17
+2025-02-05,GitHub Pro,3.95
+2025-02-06,Gym Membership,50.12
+2025-02-06,Substack VIP,7.92
+2025-02-06,Adobe Creative Cloud,55.36
+2025-02-06,Spotify,11.15
+2025-02-06,GitHub Pro,3.94
+2025-02-07,ChatGPT Plus,19.99
+2025-02-07,Google One,1.99
+2025-02-07,Adobe Creative Cloud,55.14
+2025-02-07,DoorDash Order,45.41
+2025-02-08,NYTimes Digital,3.98
+2025-02-08,Disney+,13.84
+2025-02-08,Best Buy,235.74
+2025-02-08,ChatGPT Plus,19.84
+2025-02-08,PlayStation Plus,18.03
+2025-02-09,Substack VIP,7.99
+2025-02-09,iCloud Storage,2.97
+2025-02-09,Gym Membership,49.49
+2025-02-10,AWS Hosting,45.45
+2025-02-10,iCloud Storage,3.0
+2025-02-10,Notion Pro,9.99
+2025-02-11,iCloud Storage,3.0
+2025-02-11,Netflix,16.13
+2025-02-12,ChatGPT Plus,19.84
+2025-02-12,Notion Pro,9.89
+2025-02-12,Target Store,108.24
+2025-02-12,GitHub Pro,4.01
+2025-02-13,PlayStation Plus,18.21
+2025-02-13,Starbucks Coffee,8.6
+2025-02-14,Target Store,14.06
+2025-02-15,NYTimes Digital,3.99
+2025-02-16,Notion Pro,9.92
+2025-02-16,Trader Joe's,37.41
+2025-02-16,Spotify,11.12
+2025-02-17,Gym Membership,49.85
+2025-02-17,Amazon Retail,95.53
+2025-02-18,GitHub Pro,4.02
+2025-02-19,iCloud Storage,2.98
+2025-02-19,Airbnb Booking,218.34
+2025-02-19,Slack Workspace,8.65
+2025-02-19,PlayStation Plus,18.03
+2025-02-19,Disney+,13.94
+2025-02-21,AWS Hosting,44.28
+2025-02-21,Substack VIP,7.93
+2025-02-22,Adobe Creative Cloud,54.9
+2025-02-22,Google One,2.02
+2025-02-22,Netflix,16.0
+2025-02-22,Netflix,15.98
+2025-02-23,Slack Workspace,8.69
+2025-02-23,iCloud Storage,2.94
+2025-02-23,CVS Pharmacy,36.01
+2025-02-23,NYTimes Digital,3.98
+2025-02-24,Gym Membership,49.5
+2025-02-24,Slack Workspace,8.6
+2025-02-24,AWS Hosting,45.05
+2025-02-24,Slack Workspace,8.86
+2025-02-24,ChatGPT Plus,19.86
+2025-02-24,Disney+,13.98
+2025-02-25,AWS Hosting,45.16
+2025-02-25,Adobe Creative Cloud,55.01
+2025-02-25,NYTimes Digital,4.0
+2025-02-26,Substack VIP,8.08
+2025-02-27,Gym Membership,49.9
+2025-02-27,Netflix,16.27
+2025-02-27,Notion Pro,9.92
+2025-02-27,Google One,1.99
+2025-02-27,ChatGPT Plus,20.1
+2025-02-27,AWS Hosting,45.36
+2025-02-28,Notion Pro,9.97
+2025-02-28,Substack VIP,7.95
+2025-02-28,Amazon Retail,84.49
+2025-03-01,Google One,2.01
+2025-03-01,Slack Workspace,8.77
+2025-03-01,Amazon Retail,90.36
+2025-03-02,Spotify,10.96
+2025-03-02,GitHub Pro,3.98
+2025-03-03,PlayStation Plus,18.1
+2025-03-03,Spotify,10.78
+2025-03-03,Delta Airlines,183.89
+2025-03-04,Spotify,11.06
+2025-03-04,Airbnb Booking,138.38
+2025-03-04,Netflix,16.01
+2025-03-04,NYTimes Digital,4.01
+2025-03-04,Adobe Creative Cloud,53.57
+2025-03-05,Disney+,14.01
+2025-03-05,Google One,1.98
+2025-03-05,Disney+,13.72
+2025-03-06,Local Restaurant,48.24
+2025-03-07,PlayStation Plus,17.75
+2025-03-07,Adobe Creative Cloud,55.88
+2025-03-08,Google One,2.01
+2025-03-08,Substack VIP,7.85
+2025-03-08,CVS Pharmacy,24.46
+2025-03-08,GitHub Pro,4.03
+2025-03-08,Gym Membership,49.29
+2025-03-08,GitHub Pro,4.05
+2025-03-09,PlayStation Plus,18.07
+2025-03-09,Best Buy,124.13
+2025-03-09,NYTimes Digital,3.97
+2025-03-09,ChatGPT Plus,20.19
+2025-03-09,Spotify,11.0
+2025-03-10,Substack VIP,8.04
+2025-03-10,ChatGPT Plus,20.13
+2025-03-10,Adobe Creative Cloud,55.39
+2025-03-11,iCloud Storage,3.0
+2025-03-11,Disney+,13.84
+2025-03-11,AWS Hosting,44.89
+2025-03-12,Netflix,16.28
+2025-03-12,iCloud Storage,2.95
+2025-03-12,Notion Pro,9.92
+2025-03-12,Gym Membership,49.74
+2025-03-14,DoorDash Order,53.38
+2025-03-14,iCloud Storage,2.98
+2025-03-14,Notion Pro,10.01
+2025-03-15,GitHub Pro,3.99
+2025-03-15,ChatGPT Plus,19.82
+2025-03-17,PlayStation Plus,17.73
+2025-03-17,Spotify,10.94
+2025-03-18,Trader Joe's,82.83
+2025-03-18,Notion Pro,10.19
+2025-03-18,Uber Trip,37.95
+2025-03-18,NYTimes Digital,4.11
+2025-03-19,Gym Membership,50.02
+2025-03-20,Target Store,113.2
+2025-03-20,Slack Workspace,8.72
+2025-03-20,iCloud Storage,3.01
+2025-03-21,PlayStation Plus,17.75
+2025-03-21,Uber Trip,34.1
+2025-03-21,DoorDash Order,30.02
+2025-03-21,GitHub Pro,3.89
+2025-03-21,Trader Joe's,26.02
+2025-03-21,Disney+,14.05
+2025-03-22,AWS Hosting,45.29
+2025-03-22,Substack VIP,7.91
+2025-03-23,Netflix,15.84
+2025-03-23,Google One,2.0
+2025-03-24,iCloud Storage,2.98
+2025-03-24,Netflix,16.38
+2025-03-24,NYTimes Digital,4.05
+2025-03-25,Slack Workspace,8.73
+2025-03-25,Slack Workspace,8.62
+2025-03-25,Adobe Creative Cloud,54.93
+2025-03-25,AWS Hosting,44.79
+2025-03-25,DoorDash Order,38.9
+2025-03-26,Gym Membership,49.99
+2025-03-26,AWS Hosting,45.15
+2025-03-26,Slack Workspace,8.75
+2025-03-26,Disney+,13.98
+2025-03-27,Google One,1.98
+2025-03-27,Local Restaurant,85.72
+2025-03-27,Adobe Creative Cloud,55.56
+2025-03-27,ChatGPT Plus,19.85
+2025-03-27,NYTimes Digital,3.99
+2025-03-27,Substack VIP,7.9
+2025-03-28,AWS Hosting,43.96
+2025-03-28,ChatGPT Plus,19.85
+2025-03-29,Gym Membership,50.38
+2025-03-29,Notion Pro,9.99
+2025-03-29,Notion Pro,10.1
+2025-03-29,Netflix,16.04
+2025-03-30,Substack VIP,7.86
+2025-03-31,Spotify,11.2
+2025-04-01,Google One,2.0
+2025-04-01,GitHub Pro,3.97
+2025-04-01,PlayStation Plus,18.0
+2025-04-01,Slack Workspace,8.71
+2025-04-02,Spotify,11.06
+2025-04-02,NYTimes Digital,3.95
+2025-04-03,Shell Gas Station,57.16
+2025-04-03,Google One,2.02
+2025-04-04,Disney+,13.88
+2025-04-04,Netflix,15.94
+2025-04-04,Spotify,10.79
+2025-04-04,Adobe Creative Cloud,55.88
+2025-04-05,Disney+,13.86
+2025-04-06,GitHub Pro,4.05
+2025-04-06,PlayStation Plus,18.11
+2025-04-07,ChatGPT Plus,20.14
+2025-04-07,Substack VIP,7.92
+2025-04-07,Google One,2.03
+2025-04-07,Gym Membership,49.5
+2025-04-08,Spotify,10.94
+2025-04-08,GitHub Pro,3.9
+2025-04-08,PlayStation Plus,18.05
+2025-04-08,NYTimes Digital,3.99
+2025-04-08,Adobe Creative Cloud,54.97
+2025-04-09,Substack VIP,8.08
+2025-04-09,iCloud Storage,2.99
+2025-04-09,Adobe Creative Cloud,55.07
+2025-04-10,AWS Hosting,45.0
+2025-04-10,Trader Joe's,49.44
+2025-04-10,Gym Membership,49.71
+2025-04-10,Disney+,14.14
+2025-04-10,iCloud Storage,2.94
+2025-04-11,ChatGPT Plus,19.82
+2025-04-11,Notion Pro,9.98
+2025-04-12,Netflix,15.97
+2025-04-13,ChatGPT Plus,19.87
+2025-04-13,GitHub Pro,4.07
+2025-04-13,iCloud Storage,3.01
+2025-04-13,Notion Pro,9.96
+2025-04-16,NYTimes Digital,3.94
+2025-04-16,PlayStation Plus,18.13
+2025-04-16,Best Buy,233.38
+2025-04-17,Spotify,10.8
+2025-04-17,Notion Pro,10.08
+2025-04-18,Starbucks Coffee,7.09
+2025-04-19,Gym Membership,50.25
+2025-04-20,Slack Workspace,8.94
+2025-04-20,PlayStation Plus,18.1
+2025-04-20,GitHub Pro,4.08
+2025-04-21,Trader Joe's,86.12
+2025-04-21,iCloud Storage,2.99
+2025-04-21,Shell Gas Station,31.0
+2025-04-21,Netflix,16.22
+2025-04-21,Disney+,13.99
+2025-04-22,Google One,1.98
+2025-04-22,Substack VIP,8.04
+2025-04-23,Shell Gas Station,51.54
+2025-04-23,iCloud Storage,3.04
+2025-04-23,Slack Workspace,8.82
+2025-04-23,AWS Hosting,44.34
+2025-04-23,Netflix,16.12
+2025-04-24,Gym Membership,49.58
+2025-04-24,NYTimes Digital,4.0
+2025-04-24,Adobe Creative Cloud,54.32
+2025-04-24,Slack Workspace,8.81
+2025-04-25,AWS Hosting,45.29
+2025-04-25,AWS Hosting,45.49
+2025-04-25,Disney+,14.05
+2025-04-25,Slack Workspace,8.8
+2025-04-26,Trader Joe's,88.44
+2025-04-26,Adobe Creative Cloud,56.02
+2025-04-27,Substack VIP,7.91
+2025-04-27,ChatGPT Plus,19.66
+2025-04-27,NYTimes Digital,4.03
+2025-04-27,Notion Pro,10.12
+2025-04-28,AWS Hosting,44.52
+2025-04-28,Google One,2.0
+2025-04-28,Notion Pro,9.8
+2025-04-29,Gym Membership,50.43
+2025-04-29,Netflix,16.03
+2025-04-29,ChatGPT Plus,19.57
+2025-04-30,Target Store,43.54
+2025-04-30,Spotify,10.63
+2025-04-30,DoorDash Order,64.36
+2025-04-30,Substack VIP,7.96
+2025-04-30,Slack Workspace,8.54
+2025-05-01,Spotify,11.05
+2025-05-01,NYTimes Digital,4.0
+2025-05-02,GitHub Pro,3.92
+2025-05-02,Adobe Creative Cloud,55.85
+2025-05-02,PlayStation Plus,18.05
+2025-05-02,Google One,2.0
+2025-05-02,Netflix,15.99
+2025-05-03,Google One,2.01
+2025-05-03,Disney+,14.09
+2025-05-04,Disney+,14.11
+2025-05-05,Spotify,10.86
+2025-05-06,GitHub Pro,4.0
+2025-05-06,Google One,2.02
+2025-05-06,Adobe Creative Cloud,55.12
+2025-05-06,Gym Membership,50.73
+2025-05-07,GitHub Pro,4.07
+2025-05-07,Substack VIP,7.91
+2025-05-07,PlayStation Plus,18.11
+2025-05-08,ChatGPT Plus,20.3
+2025-05-08,Delta Airlines,205.99
+2025-05-08,PlayStation Plus,17.82
+2025-05-09,Gym Membership,49.78
+2025-05-09,Spotify,11.03
+2025-05-09,NYTimes Digital,3.92
+2025-05-09,Adobe Creative Cloud,54.78
+2025-05-10,ChatGPT Plus,20.05
+2025-05-10,AWS Hosting,45.57
+2025-05-10,Substack VIP,8.12
+2025-05-10,Disney+,13.86
+2025-05-10,iCloud Storage,2.96
+2025-05-10,Best Buy,121.87
+2025-05-11,Notion Pro,10.04
+2025-05-11,iCloud Storage,3.03
+2025-05-12,Local Restaurant,53.08
+2025-05-12,Netflix,15.68
+2025-05-13,ChatGPT Plus,19.78
+2025-05-13,Shell Gas Station,30.95
+2025-05-14,iCloud Storage,3.0
+2025-05-14,PlayStation Plus,18.13
+2025-05-14,GitHub Pro,3.95
+2025-05-14,Notion Pro,10.02
+2025-05-16,NYTimes Digital,4.01
+2025-05-17,Notion Pro,10.07
+2025-05-17,DoorDash Order,38.06
+2025-05-17,Spotify,11.14
+2025-05-18,Gym Membership,50.23
+2025-05-19,GitHub Pro,4.07
+2025-05-19,Slack Workspace,8.85
+2025-05-20,PlayStation Plus,17.79
+2025-05-21,iCloud Storage,2.93
+2025-05-21,Disney+,13.97
+2025-05-22,AWS Hosting,45.09
+2025-05-22,Substack VIP,7.95
+2025-05-22,Google One,1.97
+2025-05-22,Netflix,15.89
+2025-05-23,NYTimes Digital,4.0
+2025-05-23,iCloud Storage,2.94
+2025-05-23,Adobe Creative Cloud,55.7
+2025-05-23,Netflix,16.16
+2025-05-24,AWS Hosting,45.34
+2025-05-24,DoorDash Order,28.28
+2025-05-24,Slack Workspace,8.77
+2025-05-25,Slack Workspace,8.66
+2025-05-25,Disney+,14.25
+2025-05-25,Local Restaurant,60.69
+2025-05-26,Adobe Creative Cloud,55.44
+2025-05-26,Slack Workspace,8.8
+2025-05-26,Gym Membership,49.89
+2025-05-26,Substack VIP,8.14
+2025-05-26,AWS Hosting,44.72
+2025-05-27,ChatGPT Plus,20.2
+2025-05-27,NYTimes Digital,4.06
+2025-05-27,Best Buy,87.85
+2025-05-27,Google One,2.0
+2025-05-27,Gym Membership,50.92
+2025-05-28,ChatGPT Plus,19.88
+2025-05-28,Notion Pro,10.1
+2025-05-28,Netflix,16.07
+2025-05-29,Notion Pro,9.99
+2025-05-29,Amazon Retail,27.43
+2025-05-29,Spotify,10.88
+2025-05-29,AWS Hosting,45.44
+2025-05-29,Substack VIP,7.89
+2025-05-30,Slack Workspace,8.68
+2025-05-30,Google One,1.98
+2025-05-31,CVS Pharmacy,13.28
+2025-05-31,NYTimes Digital,3.99
+2025-06-01,Spotify,11.04
+2025-06-01,GitHub Pro,3.97
+2025-06-02,Netflix,15.67
+2025-06-02,Google One,1.96
+2025-06-02,PlayStation Plus,18.35
+2025-06-02,Disney+,14.05
+2025-06-03,Spotify,11.16
+2025-06-03,Adobe Creative Cloud,53.98
+2025-06-03,Disney+,14.13
+2025-06-04,Amazon Retail,131.54
+2025-06-05,Google One,1.96
+2025-06-05,PlayStation Plus,17.92
+2025-06-05,Substack VIP,8.02
+2025-06-05,Adobe Creative Cloud,54.4
+2025-06-05,Amazon Retail,51.59
+2025-06-05,Target Store,100.19
+2025-06-05,Best Buy,225.97
+2025-06-06,GitHub Pro,4.02
+2025-06-06,PlayStation Plus,17.84
+2025-06-06,Gym Membership,50.59
+2025-06-06,GitHub Pro,4.04
+2025-06-07,ChatGPT Plus,20.08
+2025-06-07,DoorDash Order,57.58
+2025-06-07,Spotify,10.84
+2025-06-07,Adobe Creative Cloud,55.14
+2025-06-08,Disney+,13.95
+2025-06-08,ChatGPT Plus,19.69
+2025-06-09,iCloud Storage,3.03
+2025-06-09,AWS Hosting,45.17
+2025-06-09,Substack VIP,7.85
+2025-06-09,NYTimes Digital,4.1
+2025-06-09,Gym Membership,50.8
+2025-06-09,Trader Joe's,47.53
+2025-06-10,Notion Pro,10.01
+2025-06-11,iCloud Storage,3.01
+2025-06-11,ChatGPT Plus,20.04
+2025-06-11,GitHub Pro,4.03
+2025-06-12,iCloud Storage,3.06
+2025-06-12,Netflix,16.11
+2025-06-12,Notion Pro,9.7
+2025-06-12,DoorDash Order,35.49
+2025-06-13,DoorDash Order,22.73
+2025-06-13,PlayStation Plus,18.05
+2025-06-14,Trader Joe's,32.4
+2025-06-16,Notion Pro,10.01
+2025-06-16,Gym Membership,50.27
+2025-06-16,NYTimes Digital,4.02
+2025-06-16,Spotify,10.91
+2025-06-18,Trader Joe's,48.29
+2025-06-18,GitHub Pro,3.96
+2025-06-18,PlayStation Plus,18.11
+2025-06-19,iCloud Storage,3.02
+2025-06-20,Google One,1.97
+2025-06-20,Slack Workspace,8.59
+2025-06-20,Disney+,14.03
+2025-06-21,Uber Trip,13.37
+2025-06-21,Substack VIP,8.16
+2025-06-21,Netflix,16.3
+2025-06-21,AWS Hosting,45.42
+2025-06-21,Airbnb Booking,288.89
+2025-06-22,Netflix,16.04
+2025-06-23,Slack Workspace,8.68
+2025-06-23,Adobe Creative Cloud,55.05
+2025-06-23,Disney+,13.99
+2025-06-23,AWS Hosting,45.28
+2025-06-23,iCloud Storage,3.05
+2025-06-24,Slack Workspace,8.74
+2025-06-24,AWS Hosting,44.84
+2025-06-24,Gym Membership,49.73
+2025-06-24,NYTimes Digital,4.02
+2025-06-24,Slack Workspace,8.92
+2025-06-25,ChatGPT Plus,20.03
+2025-06-26,Uber Trip,23.53
+2025-06-26,Adobe Creative Cloud,55.31
+2025-06-26,NYTimes Digital,3.95
+2025-06-26,Substack VIP,7.97
+2025-06-27,AWS Hosting,45.41
+2025-06-27,Notion Pro,9.9
+2025-06-27,Substack VIP,8.11
+2025-06-27,Gym Membership,49.45
+2025-06-27,Notion Pro,10.02
+2025-06-27,Best Buy,295.2
+2025-06-27,Google One,1.97
+2025-06-28,Netflix,16.61
+2025-06-28,ChatGPT Plus,20.15
+2025-06-29,Slack Workspace,8.73
+2025-06-29,Google One,2.0
+2025-06-29,Local Restaurant,77.44
+2025-06-30,Best Buy,205.06
+2025-06-30,Spotify,11.17
+2025-06-30,Amazon Retail,86.37
+2025-07-01,GitHub Pro,3.98
+2025-07-01,PlayStation Plus,17.74
+2025-07-01,NYTimes Digital,3.99
+2025-07-01,Spotify,11.0
+2025-07-01,Google One,2.0
+2025-07-02,Spotify,10.94
+2025-07-02,Adobe Creative Cloud,54.29
+2025-07-02,Netflix,16.17
+2025-07-02,Disney+,13.87
+2025-07-03,Delta Airlines,178.41
+2025-07-03,Disney+,13.83
+2025-07-04,PlayStation Plus,17.96
+2025-07-05,Delta Airlines,219.53
+2025-07-06,Adobe Creative Cloud,55.37
+2025-07-06,GitHub Pro,4.02
+2025-07-06,PlayStation Plus,18.19
+2025-07-06,Gym Membership,50.03
+2025-07-06,Substack VIP,7.89
+2025-07-06,Google One,2.0
+2025-07-07,GitHub Pro,3.98
+2025-07-07,Spotify,10.75
+2025-07-07,ChatGPT Plus,20.21
+2025-07-08,Adobe Creative Cloud,54.29
+2025-07-08,Gym Membership,49.83
+2025-07-08,Substack VIP,8.1
+2025-07-09,NYTimes Digital,3.97
+2025-07-09,ChatGPT Plus,19.44
+2025-07-09,DoorDash Order,48.48
+2025-07-09,AWS Hosting,44.78
+2025-07-09,Disney+,14.15
+2025-07-09,iCloud Storage,2.97
+2025-07-10,Netflix,15.84
+2025-07-10,iCloud Storage,3.02
+2025-07-11,Notion Pro,10.04
+2025-07-11,Local Restaurant,62.02
+2025-07-12,ChatGPT Plus,20.18
+2025-07-12,Notion Pro,9.95
+2025-07-12,GitHub Pro,4.02
+2025-07-13,PlayStation Plus,18.18
+2025-07-13,Airbnb Booking,258.84
+2025-07-13,iCloud Storage,3.0
+2025-07-14,DoorDash Order,50.51
+2025-07-15,Spotify,11.0
+2025-07-15,NYTimes Digital,3.97
+2025-07-16,Best Buy,63.53
+2025-07-16,Airbnb Booking,148.18
+2025-07-17,Notion Pro,9.98
+2025-07-18,GitHub Pro,4.04
+2025-07-18,Gym Membership,49.43
+2025-07-19,Slack Workspace,8.83
+2025-07-19,iCloud Storage,2.94
+2025-07-20,Disney+,14.02
+2025-07-20,PlayStation Plus,18.13
+2025-07-21,Netflix,15.68
+2025-07-21,Trader Joe's,78.33
+2025-07-21,Google One,1.95
+2025-07-21,AWS Hosting,45.81
+2025-07-22,Trader Joe's,31.0
+2025-07-22,iCloud Storage,3.02
+2025-07-22,Substack VIP,7.89
+2025-07-23,NYTimes Digital,4.0
+2025-07-23,Slack Workspace,8.87
+2025-07-23,Disney+,13.66
+2025-07-23,AWS Hosting,44.96
+2025-07-23,Netflix,16.01
+2025-07-23,Adobe Creative Cloud,55.25
+2025-07-24,AWS Hosting,45.55
+2025-07-24,Slack Workspace,8.75
+2025-07-24,Gym Membership,49.73
+2025-07-24,Slack Workspace,8.7
+2025-07-25,Substack VIP,8.0
+2025-07-25,ChatGPT Plus,20.2
+2025-07-25,Adobe Creative Cloud,54.79
+2025-07-26,Uber Trip,22.7
+2025-07-26,ChatGPT Plus,20.11
+2025-07-26,AWS Hosting,44.56
+2025-07-27,NYTimes Digital,3.95
+2025-07-27,Notion Pro,10.05
+2025-07-27,Netflix,16.2
+2025-07-27,Google One,1.96
+2025-07-27,Notion Pro,9.88
+2025-07-27,Gym Membership,50.59
+2025-07-28,Local Restaurant,40.32
+2025-07-28,Target Store,25.25
+2025-07-28,Substack VIP,7.94
+2025-07-29,Slack Workspace,8.86
+2025-07-30,Spotify,10.83
+2025-07-30,Spotify,11.0
+2025-07-30,Google One,1.99
+2025-07-31,PlayStation Plus,17.84
+2025-07-31,GitHub Pro,3.97
+2025-08-01,Adobe Creative Cloud,55.27
+2025-08-01,NYTimes Digital,3.95
+2025-08-01,Google One,2.02
+2025-08-02,Netflix,15.87
+2025-08-02,Spotify,11.13
+2025-08-03,Disney+,14.23
+2025-08-03,Disney+,13.76
+2025-08-05,Gym Membership,49.6
+2025-08-05,PlayStation Plus,17.97
+2025-08-05,GitHub Pro,3.99
+2025-08-05,Substack VIP,8.03
+2025-08-05,Google One,1.96
+2025-08-05,GitHub Pro,3.99
+2025-08-06,NYTimes Digital,4.04
+2025-08-06,PlayStation Plus,18.12
+2025-08-06,ChatGPT Plus,19.9
+2025-08-06,Adobe Creative Cloud,55.53
+2025-08-06,Spotify,11.21
+2025-08-07,Gym Membership,49.94
+2025-08-07,ChatGPT Plus,19.91
+2025-08-08,AWS Hosting,45.67
+2025-08-08,Adobe Creative Cloud,54.54
+2025-08-08,iCloud Storage,2.99
+2025-08-08,Substack VIP,7.99
+2025-08-09,Notion Pro,10.03
+2025-08-09,iCloud Storage,2.97
+2025-08-09,Disney+,14.11
+2025-08-10,Uber Trip,38.88
+2025-08-11,iCloud Storage,3.03
+2025-08-11,GitHub Pro,4.16
+2025-08-11,ChatGPT Plus,20.0
+2025-08-11,Netflix,15.92
+2025-08-11,Notion Pro,9.9
+2025-08-12,Best Buy,70.3
+2025-08-13,PlayStation Plus,17.96
+2025-08-14,NYTimes Digital,4.0
+2025-08-15,Spotify,11.01
+2025-08-15,Gym Membership,50.27
+2025-08-16,CVS Pharmacy,21.95
+2025-08-16,Notion Pro,10.02
+2025-08-17,iCloud Storage,3.02
+2025-08-18,PlayStation Plus,18.11
+2025-08-18,GitHub Pro,3.96
+2025-08-18,Slack Workspace,8.68
+2025-08-19,Disney+,14.22
+2025-08-19,Target Store,57.54
+2025-08-20,Netflix,15.97
+2025-08-20,Substack VIP,8.04
+2025-08-20,Google One,2.0
+2025-08-20,AWS Hosting,44.9
+2025-08-20,Netflix,15.78
+2025-08-21,iCloud Storage,2.99
+2025-08-21,AWS Hosting,44.77
+2025-08-21,DoorDash Order,53.26
+2025-08-22,Adobe Creative Cloud,55.31
+2025-08-22,Slack Workspace,8.67
+2025-08-22,NYTimes Digital,3.99
+2025-08-23,Slack Workspace,8.69
+2025-08-23,Gym Membership,49.58
+2025-08-23,Starbucks Coffee,8.97
+2025-08-23,Slack Workspace,8.72
+2025-08-23,AWS Hosting,44.92
+2025-08-23,Airbnb Booking,214.12
+2025-08-24,Adobe Creative Cloud,55.44
+2025-08-24,Disney+,14.18
+2025-08-24,NYTimes Digital,3.98
+2025-08-24,ChatGPT Plus,20.16
+2025-08-24,CVS Pharmacy,38.22
+2025-08-25,Substack VIP,8.04
+2025-08-25,Google One,1.99
+2025-08-26,AWS Hosting,44.2
+2025-08-26,Notion Pro,10.08
+2025-08-26,ChatGPT Plus,20.29
+2025-08-26,Netflix,16.15
+2025-08-26,Substack VIP,8.1
+2025-08-27,Notion Pro,9.97
+2025-08-27,Gym Membership,49.02
+2025-08-28,Spotify,10.98
+2025-08-28,Slack Workspace,8.78
+2025-08-29,NYTimes Digital,4.0
+2025-08-29,PlayStation Plus,18.23
+2025-08-29,GitHub Pro,3.95
+2025-08-30,Google One,1.99
+2025-08-30,Google One,1.99
+2025-08-30,Trader Joe's,83.76
+2025-08-31,Best Buy,174.58
+2025-08-31,Adobe Creative Cloud,54.59
+2025-08-31,Spotify,10.9
+2025-08-31,Netflix,15.87
+2025-08-31,Airbnb Booking,307.58
+2025-09-01,Disney+,13.92
+2025-09-01,CVS Pharmacy,37.67
+2025-09-02,CVS Pharmacy,21.44
+2025-09-02,Disney+,13.98
+2025-09-02,Spotify,10.99
+2025-09-03,Uber Trip,42.88
+2025-09-03,GitHub Pro,3.95
+2025-09-03,PlayStation Plus,17.69
+2025-09-04,Google One,1.95
+2025-09-04,Adobe Creative Cloud,54.87
+2025-09-04,PlayStation Plus,18.16
+2025-09-04,Gym Membership,50.31
+2025-09-04,Substack VIP,8.1
+2025-09-04,GitHub Pro,3.95
+2025-09-05,Spotify,10.93
+2025-09-05,NYTimes Digital,3.98
+2025-09-06,iCloud Storage,2.97
+2025-09-06,ChatGPT Plus,19.95
+2025-09-06,Adobe Creative Cloud,55.33
+2025-09-06,Disney+,14.07
+2025-09-07,Target Store,73.93
+2025-09-07,Gym Membership,50.6
+2025-09-07,Substack VIP,7.99
+2025-09-07,AWS Hosting,45.0
+2025-09-07,ChatGPT Plus,20.02
+2025-09-08,iCloud Storage,2.99
+2025-09-08,Notion Pro,9.91
+2025-09-08,Amazon Retail,89.26
+2025-09-09,GitHub Pro,3.97
+2025-09-09,Netflix,15.81
+2025-09-09,Notion Pro,10.23
+2025-09-10,Starbucks Coffee,5.13
+2025-09-10,ChatGPT Plus,20.3
+2025-09-10,iCloud Storage,2.97
+2025-09-11,Local Restaurant,23.47
+2025-09-11,Starbucks Coffee,5.94
+2025-09-12,PlayStation Plus,17.86
+2025-09-12,NYTimes Digital,4.0
+2025-09-13,DoorDash Order,34.46
+2025-09-15,Notion Pro,10.15
+2025-09-15,Gym Membership,50.14
+2025-09-15,Spotify,10.94
+2025-09-16,iCloud Storage,2.98
+2025-09-17,GitHub Pro,3.97
+2025-09-17,PlayStation Plus,17.96
+2025-09-17,Slack Workspace,8.76
+2025-09-18,Disney+,13.92
+2025-09-18,AWS Hosting,44.66
+2025-09-19,CVS Pharmacy,19.1
+2025-09-19,Google One,1.99
+2025-09-19,Substack VIP,7.94
+2025-09-20,iCloud Storage,2.94
+2025-09-20,Netflix,15.88
+2025-09-20,Netflix,16.28
+2025-09-21,Gym Membership,50.46
+2025-09-21,NYTimes Digital,3.99
+2025-09-21,Adobe Creative Cloud,54.87
+2025-09-21,AWS Hosting,44.98
+2025-09-21,Slack Workspace,8.85
+2025-09-22,Disney+,13.84
+2025-09-22,AWS Hosting,44.69
+2025-09-22,Adobe Creative Cloud,55.27
+2025-09-22,Shell Gas Station,44.33
+2025-09-22,Slack Workspace,8.89
+2025-09-23,ChatGPT Plus,19.81
+2025-09-23,Slack Workspace,8.79
+2025-09-24,Gym Membership,50.17
+2025-09-24,ChatGPT Plus,20.09
+2025-09-24,Google One,2.0
+2025-09-24,NYTimes Digital,3.93
+2025-09-24,Notion Pro,10.06
+2025-09-25,DoorDash Order,49.66
+2025-09-25,Netflix,15.81
+2025-09-25,Notion Pro,9.93
+2025-09-25,Best Buy,70.85
+2025-09-25,AWS Hosting,44.68
+2025-09-25,Substack VIP,8.0
+2025-09-26,Trader Joe's,42.3
+2025-09-26,Substack VIP,8.11
+2025-09-27,Spotify,10.94
+2025-09-28,NYTimes Digital,3.93
+2025-09-28,Google One,2.02
+2025-09-28,Slack Workspace,8.68
+2025-09-29,GitHub Pro,3.98
+2025-09-29,Spotify,11.01
+2025-09-29,PlayStation Plus,18.08
+2025-09-30,Google One,1.98
+2025-09-30,Netflix,15.9
+2025-10-01,Adobe Creative Cloud,54.2
+2025-10-01,Spotify,11.03
+2025-10-02,Disney+,13.79
+2025-10-02,Disney+,14.22
+2025-10-02,Uber Trip,23.78
+2025-10-03,Amazon Retail,25.68
+2025-10-03,PlayStation Plus,17.99
+2025-10-03,Google One,1.95
+2025-10-04,GitHub Pro,4.02
+2025-10-04,Substack VIP,7.95
+2025-10-04,GitHub Pro,3.96
+2025-10-05,Spotify,10.87
+2025-10-05,PlayStation Plus,17.62
+2025-10-05,Gym Membership,49.27
+2025-10-05,Adobe Creative Cloud,54.91
+2025-10-06,NYTimes Digital,4.02
+2025-10-06,Adobe Creative Cloud,54.97
+2025-10-06,ChatGPT Plus,19.8
+2025-10-06,AWS Hosting,45.18
+2025-10-07,ChatGPT Plus,20.09
+2025-10-07,Gym Membership,49.83
+2025-10-07,Disney+,14.09
+2025-10-07,iCloud Storage,3.01
+2025-10-08,iCloud Storage,2.95
+2025-10-08,Netflix,16.06
+2025-10-08,Notion Pro,10.1
+2025-10-08,Substack VIP,8.05
+2025-10-10,ChatGPT Plus,20.42
+2025-10-10,Airbnb Booking,233.14
+2025-10-10,GitHub Pro,4.03
+2025-10-11,Notion Pro,10.01
+2025-10-11,iCloud Storage,3.04
+2025-10-12,Best Buy,79.77
+2025-10-12,PlayStation Plus,18.37
+2025-10-13,Starbucks Coffee,10.47
+2025-10-13,NYTimes Digital,3.95
+2025-10-13,Best Buy,94.18
+2025-10-14,Notion Pro,10.06
+2025-10-15,Gym Membership,49.92
+2025-10-15,Spotify,10.99
+2025-10-16,Slack Workspace,8.61
+2025-10-16,GitHub Pro,4.01
+2025-10-17,PlayStation Plus,18.01
+2025-10-17,iCloud Storage,2.97
+2025-10-18,Disney+,14.23
+2025-10-18,Substack VIP,7.94
+2025-10-19,AWS Hosting,44.69
+2025-10-19,Netflix,15.98
+2025-10-20,iCloud Storage,2.97
+2025-10-20,Google One,1.99
+2025-10-21,CVS Pharmacy,16.82
+2025-10-21,AWS Hosting,44.94
+2025-10-21,Netflix,16.08
+2025-10-21,NYTimes Digital,4.06
+2025-10-22,Slack Workspace,8.9
+2025-10-22,Gym Membership,50.23
+2025-10-22,AWS Hosting,44.6
+2025-10-22,Disney+,13.98
+2025-10-22,Adobe Creative Cloud,54.36
+2025-10-23,Slack Workspace,8.92
+2025-10-23,ChatGPT Plus,19.66
+2025-10-23,Slack Workspace,8.79
+2025-10-24,NYTimes Digital,4.07
+2025-10-24,Google One,1.97
+2025-10-24,Starbucks Coffee,6.95
+2025-10-24,Adobe Creative Cloud,55.54
+2025-10-25,AWS Hosting,44.43
+2025-10-25,Gym Membership,50.01
+2025-10-25,Substack VIP,8.0
+2025-10-25,Netflix,15.75
+2025-10-25,ChatGPT Plus,20.13
+2025-10-25,Notion Pro,9.93
+2025-10-25,Substack VIP,7.9
+2025-10-26,Notion Pro,9.95
+2025-10-27,Spotify,11.12
+2025-10-27,Google One,1.98
+2025-10-28,Slack Workspace,8.61
+2025-10-28,NYTimes Digital,3.97
+2025-10-29,PlayStation Plus,17.97
+2025-10-29,GitHub Pro,3.95
+2025-10-29,Netflix,15.99
+2025-10-30,Spotify,10.99
+2025-10-30,Google One,2.01
+2025-10-31,Spotify,10.98
+2025-10-31,Adobe Creative Cloud,55.31
+2025-10-31,Disney+,14.0
+2025-11-01,Disney+,14.25
+2025-11-02,PlayStation Plus,18.03
+2025-11-02,Google One,2.0
+2025-11-03,Substack VIP,8.07
+2025-11-03,DoorDash Order,23.26
+2025-11-03,Gym Membership,49.44
+2025-11-04,PlayStation Plus,17.91
+2025-11-04,Adobe Creative Cloud,54.63
+2025-11-04,GitHub Pro,4.03
+2025-11-04,GitHub Pro,4.01
+2025-11-04,NYTimes Digital,3.99
+2025-11-04,Spotify,11.04
+2025-11-05,ChatGPT Plus,19.49
+2025-11-05,Adobe Creative Cloud,55.36
+2025-11-06,iCloud Storage,2.96
+2025-11-06,ChatGPT Plus,19.69
+2025-11-06,Gym Membership,49.65
+2025-11-07,Substack VIP,8.07
+2025-11-07,Disney+,13.88
+2025-11-07,AWS Hosting,44.41
+2025-11-07,Notion Pro,10.13
+2025-11-08,iCloud Storage,2.99
+2025-11-08,GitHub Pro,4.01
+2025-11-08,Netflix,15.69
+2025-11-09,iCloud Storage,2.99
+2025-11-09,ChatGPT Plus,20.28
+2025-11-09,Notion Pro,9.83
+2025-11-11,Delta Airlines,562.94
+2025-11-12,PlayStation Plus,18.13
+2025-11-12,NYTimes Digital,4.0
+2025-11-13,Notion Pro,10.04
+2025-11-13,Gym Membership,49.69
+2025-11-14,GitHub Pro,4.03
+2025-11-14,Spotify,11.0
+2025-11-15,PlayStation Plus,17.93
+2025-11-16,Slack Workspace,8.68
+2025-11-16,iCloud Storage,3.03
+2025-11-16,Disney+,14.18
+2025-11-17,Google One,2.03
+2025-11-17,Netflix,16.02
+2025-11-18,AWS Hosting,44.38
+2025-11-18,Substack VIP,7.93
+2025-11-19,iCloud Storage,3.03
+2025-11-19,Slack Workspace,8.77
+2025-11-20,Shell Gas Station,42.52
+2025-11-20,Netflix,15.76
+2025-11-20,AWS Hosting,44.54
+2025-11-21,NYTimes Digital,3.98
+2025-11-21,Gym Membership,49.57
+2025-11-21,Disney+,13.85
+2025-11-21,Adobe Creative Cloud,54.32
+2025-11-21,AWS Hosting,44.7
+2025-11-21,Slack Workspace,8.86
+2025-11-21,Slack Workspace,8.82
+2025-11-22,Adobe Creative Cloud,55.83
+2025-11-22,ChatGPT Plus,19.82
+2025-11-23,Notion Pro,10.13
+2025-11-23,Substack VIP,8.04
+2025-11-23,Google One,1.95
+2025-11-23,NYTimes Digital,4.03
+2025-11-24,AWS Hosting,45.05
+2025-11-24,Notion Pro,9.99
+2025-11-24,Uber Trip,20.34
+2025-11-24,Netflix,16.36
+2025-11-25,ChatGPT Plus,20.03
+2025-11-25,Gym Membership,50.35
+2025-11-25,Substack VIP,7.94
+2025-11-25,DoorDash Order,31.27
+2025-11-26,Amazon Retail,124.37
+2025-11-26,Slack Workspace,8.65
+2025-11-27,Spotify,10.99
+2025-11-28,Google One,1.99
+2025-11-28,Spotify,11.04
+2025-11-28,GitHub Pro,3.98
+2025-11-28,Google One,1.99
+2025-11-29,NYTimes Digital,4.03
+2025-11-29,PlayStation Plus,18.06
+2025-11-29,Netflix,16.08
+2025-11-29,Adobe Creative Cloud,54.48
+2025-11-30,Spotify,10.9
+2025-11-30,Airbnb Booking,382.02
+2025-12-01,Disney+,14.1
+2025-12-01,PlayStation Plus,18.11
+2025-12-01,Disney+,14.06
+2025-12-03,Gym Membership,50.85
+2025-12-03,Google One,2.01
+2025-12-03,PlayStation Plus,17.96
+2025-12-04,Substack VIP,7.91
+2025-12-04,Adobe Creative Cloud,54.92
+2025-12-04,GitHub Pro,4.05
+2025-12-04,Trader Joe's,34.84
+2025-12-04,GitHub Pro,4.06
+2025-12-05,Disney+,13.81
+2025-12-05,Gym Membership,50.42
+2025-12-05,Spotify,10.99
+2025-12-05,ChatGPT Plus,19.92
+2025-12-05,Adobe Creative Cloud,55.51
+2025-12-06,iCloud Storage,2.99
+2025-12-06,NYTimes Digital,4.03
+2025-12-06,iCloud Storage,2.97
+2025-12-06,AWS Hosting,45.36
+2025-12-06,Substack VIP,7.97
+2025-12-07,ChatGPT Plus,19.95
+2025-12-07,Notion Pro,10.04
+2025-12-08,Netflix,15.78
+2025-12-09,Notion Pro,9.79
+2025-12-09,ChatGPT Plus,19.7
+2025-12-09,Delta Airlines,537.93
+2025-12-09,iCloud Storage,3.03
+2025-12-09,Delta Airlines,175.98
+2025-12-09,GitHub Pro,4.0
+2025-12-10,DoorDash Order,62.75
+2025-12-12,PlayStation Plus,17.86
+2025-12-12,NYTimes Digital,4.07
+2025-12-13,Gym Membership,50.8
+2025-12-13,Notion Pro,10.21
+2025-12-14,Spotify,10.96
+2025-12-15,Airbnb Booking,199.27
+2025-12-15,Best Buy,59.21
+2025-12-15,Airbnb Booking,176.25
+2025-12-15,GitHub Pro,4.05
+2025-12-16,Disney+,14.1
+2025-12-16,Slack Workspace,8.92
+2025-12-16,iCloud Storage,3.01
+2025-12-16,PlayStation Plus,18.17
+2025-12-17,AWS Hosting,45.01
+2025-12-17,Netflix,15.83
+2025-12-18,iCloud Storage,3.03
+2025-12-19,Substack VIP,8.11
+2025-12-19,Google One,2.01
+2025-12-19,Adobe Creative Cloud,55.9
+2025-12-20,NYTimes Digital,4.04
+2025-12-20,AWS Hosting,45.3
+2025-12-20,Airbnb Booking,349.71
+2025-12-20,Netflix,16.02
+2025-12-20,AWS Hosting,45.5
+2025-12-21,Slack Workspace,8.71
+2025-12-21,Slack Workspace,8.76
+2025-12-21,Disney+,13.95
+2025-12-21,Slack Workspace,8.82
+2025-12-21,Gym Membership,50.41
+2025-12-22,ChatGPT Plus,19.67
+2025-12-23,Adobe Creative Cloud,54.79
+2025-12-23,Google One,2.01
+2025-12-24,ChatGPT Plus,20.02
+2025-12-24,AWS Hosting,44.31
+2025-12-24,Substack VIP,8.07
+2025-12-24,NYTimes Digital,3.96
+2025-12-24,Notion Pro,9.95
+2025-12-25,Notion Pro,9.91
+2025-12-25,Netflix,15.69
+2025-12-25,Substack VIP,8.08
+2025-12-25,Gym Membership,50.83
+2025-12-26,Slack Workspace,8.85
+2025-12-27,Spotify,10.97
+2025-12-27,Google One,1.98
+2025-12-27,NYTimes Digital,3.99
+2025-12-28,DoorDash Order,39.94
+2025-12-28,Google One,1.99
+2025-12-28,Target Store,20.26
+2025-12-28,PlayStation Plus,18.09
+2025-12-28,GitHub Pro,3.97
+2025-12-28,Spotify,11.0
+2025-12-28,Uber Trip,42.1
+2025-12-28,Adobe Creative Cloud,54.25
+2025-12-29,Netflix,15.88
+2025-12-29,Best Buy,221.31
+2025-12-30,Disney+,13.95
+2025-12-31,Disney+,13.82
+2025-12-31,Spotify,10.99
+2026-01-01,Uber Trip,28.92
+2026-01-01,Local Restaurant,80.44
+2026-01-01,Adobe Creative Cloud,54.71
+2026-01-01,Substack VIP,8.05
+2026-01-01,PlayStation Plus,17.83
+2026-01-02,GitHub Pro,4.01
+2026-01-02,Gym Membership,49.79
+2026-01-02,GitHub Pro,3.95
+2026-01-02,PlayStation Plus,18.02
+2026-01-03,Adobe Creative Cloud,54.71
+2026-01-03,Shell Gas Station,39.77
+2026-01-03,Google One,1.97
+2026-01-03,ChatGPT Plus,20.01
+2026-01-03,Spotify,11.06
+2026-01-04,AWS Hosting,44.99
+2026-01-04,Amazon Retail,83.84
+2026-01-05,Disney+,13.74
+2026-01-05,ChatGPT Plus,20.14
+2026-01-05,NYTimes Digital,3.98
+2026-01-05,Substack VIP,8.07
+2026-01-05,iCloud Storage,3.01
+2026-01-06,Gym Membership,49.8
+2026-01-06,Notion Pro,10.02
+2026-01-07,iCloud Storage,2.96
+2026-01-08,GitHub Pro,4.05
+2026-01-08,iCloud Storage,2.97
+2026-01-08,Notion Pro,10.0
+2026-01-08,ChatGPT Plus,19.77
+2026-01-08,Netflix,16.11
+2026-01-10,PlayStation Plus,18.05
+2026-01-11,Spotify,10.81
+2026-01-11,NYTimes Digital,3.96
+2026-01-12,Gym Membership,49.48
+2026-01-12,Notion Pro,10.07
+2026-01-14,Slack Workspace,8.63
+2026-01-15,iCloud Storage,3.01
+2026-01-15,DoorDash Order,63.93
+2026-01-15,GitHub Pro,3.96
+2026-01-15,PlayStation Plus,18.08
+2026-01-15,Disney+,13.85
+2026-01-16,Substack VIP,8.09
+2026-01-16,Google One,1.98
+2026-01-17,AWS Hosting,44.59
+2026-01-17,DoorDash Order,23.8
+2026-01-18,Netflix,15.9
+2026-01-18,Netflix,16.1
+2026-01-18,iCloud Storage,2.98
+2026-01-18,Slack Workspace,8.84
+2026-01-19,Disney+,13.92
+2026-01-19,AWS Hosting,45.91
+2026-01-20,NYTimes Digital,3.9
+2026-01-20,Adobe Creative Cloud,54.96
+2026-01-20,Gym Membership,49.78
+2026-01-20,AWS Hosting,45.21
+2026-01-20,Slack Workspace,8.74
+2026-01-20,Slack Workspace,8.66
+2026-01-21,ChatGPT Plus,20.35
+2026-01-21,Adobe Creative Cloud,54.53
+2026-01-22,Gym Membership,49.7
+2026-01-22,Google One,1.99
+2026-01-22,Target Store,37.48
+2026-01-23,AWS Hosting,44.38
+2026-01-23,Shell Gas Station,38.3
+2026-01-23,Netflix,15.92
+2026-01-23,ChatGPT Plus,20.02
+2026-01-23,Notion Pro,9.9
+2026-01-23,NYTimes Digital,4.01
+2026-01-23,Substack VIP,8.0
+2026-01-24,Slack Workspace,8.67
+2026-01-24,Notion Pro,10.16
+2026-01-24,Substack VIP,7.95
+2026-01-25,Starbucks Coffee,7.41
+2026-01-25,Spotify,11.0
+2026-01-25,Google One,1.99
+2026-01-26,PlayStation Plus,18.26
+2026-01-26,Spotify,10.91
+2026-01-26,NYTimes Digital,4.03
+2026-01-27,Best Buy,83.69
+2026-01-28,GitHub Pro,4.0
+2026-01-28,DoorDash Order,64.71
+2026-01-28,Netflix,16.02
+2026-01-28,Adobe Creative Cloud,55.31
+2026-01-29,Spotify,11.11
+2026-01-29,Best Buy,276.75
+2026-01-29,Google One,1.96
+2026-01-30,Disney+,14.19
+2026-01-30,PlayStation Plus,18.22
+2026-01-30,Disney+,14.04
+2026-01-31,Google One,1.98
+2026-01-31,Adobe Creative Cloud,55.27
+2026-02-01,Gym Membership,49.28
+2026-02-01,GitHub Pro,4.01
+2026-02-01,GitHub Pro,4.0
+2026-02-02,PlayStation Plus,18.03
+2026-02-02,Substack VIP,8.07
+2026-02-02,Spotify,10.93
+2026-02-02,ChatGPT Plus,19.97
+2026-02-03,Adobe Creative Cloud,54.52
+2026-02-03,NYTimes Digital,4.01
+2026-02-03,iCloud Storage,3.0
+2026-02-03,Target Store,55.95
+2026-02-04,Disney+,13.75
+2026-02-04,AWS Hosting,45.79
+2026-02-04,ChatGPT Plus,19.95
+2026-02-04,Substack VIP,7.98
+2026-02-04,Gym Membership,49.74
+2026-02-05,iCloud Storage,2.99
+2026-02-06,Starbucks Coffee,11.98
+2026-02-06,Netflix,16.03
+2026-02-06,iCloud Storage,3.01
+2026-02-06,Notion Pro,10.09
+2026-02-07,ChatGPT Plus,19.72
+2026-02-07,GitHub Pro,3.98
+2026-02-08,Notion Pro,10.21
+2026-02-09,PlayStation Plus,17.97
+2026-02-10,NYTimes Digital,3.97
+2026-02-11,Spotify,10.89
+2026-02-12,Amazon Retail,37.79
+2026-02-12,Gym Membership,50.02
+2026-02-12,Notion Pro,10.08
+2026-02-13,iCloud Storage,3.01
+2026-02-14,Slack Workspace,8.77
+2026-02-14,GitHub Pro,4.02
+2026-02-15,PlayStation Plus,18.12
+2026-02-16,Netflix,16.26
+2026-02-16,Trader Joe's,63.82
+2026-02-16,AWS Hosting,45.68
+2026-02-16,Substack VIP,8.18
+2026-02-16,Disney+,14.04
+2026-02-16,Google One,1.99
+2026-02-17,iCloud Storage,3.03
+2026-02-17,Netflix,16.05
+2026-02-18,Amazon Retail,27.37
+2026-02-18,NYTimes Digital,3.95
+2026-02-18,Adobe Creative Cloud,55.12
+2026-02-18,Slack Workspace,8.67
+2026-02-18,AWS Hosting,44.98
+2026-02-19,AWS Hosting,45.46
+2026-02-19,ChatGPT Plus,19.9
+2026-02-19,Slack Workspace,8.68
+2026-02-19,Disney+,13.87
+2026-02-19,Uber Trip,32.59
+2026-02-19,Slack Workspace,8.73
+2026-02-19,Gym Membership,49.82
+2026-02-20,Adobe Creative Cloud,55.85
+2026-02-20,NYTimes Digital,4.01
+2026-02-21,Notion Pro,10.11
+2026-02-21,Google One,1.98
+2026-02-21,Substack VIP,8.12
+2026-02-21,Local Restaurant,35.16
+2026-02-22,Notion Pro,9.9
+2026-02-22,Substack VIP,8.06
+2026-02-22,ChatGPT Plus,19.97
+2026-02-22,Netflix,16.09
+2026-02-22,AWS Hosting,44.75
+2026-02-23,Gym Membership,49.34
+2026-02-23,Best Buy,147.0
+2026-02-24,Slack Workspace,8.78
+2026-02-24,Spotify,10.78
+2026-02-25,Spotify,10.88
+2026-02-25,Best Buy,190.08
+2026-02-25,Google One,2.01
+2026-02-26,GitHub Pro,3.88
+2026-02-26,PlayStation Plus,17.95
+2026-02-26,NYTimes Digital,4.05
+2026-02-27,Google One,2.01
+2026-02-27,Netflix,16.13
+2026-02-27,Adobe Creative Cloud,54.03
+2026-02-27,Local Restaurant,80.18
+2026-02-28,Disney+,13.93
+2026-03-01,Disney+,14.24
+2026-03-01,Spotify,11.23
+2026-03-02,Adobe Creative Cloud,55.65
+2026-03-03,Google One,2.01
+2026-03-03,PlayStation Plus,18.09
+2026-03-03,GitHub Pro,3.99
+2026-03-03,GitHub Pro,4.0
+2026-03-04,Substack VIP,7.85
+2026-03-04,PlayStation Plus,18.18
+2026-03-04,Spotify,10.96
+2026-03-04,Gym Membership,49.11
+2026-03-04,ChatGPT Plus,20.14
+2026-03-05,iCloud Storage,3.02
+2026-03-05,AWS Hosting,44.54
+2026-03-05,Adobe Creative Cloud,56.5
+2026-03-05,Shell Gas Station,40.26
+2026-03-06,NYTimes Digital,4.04
+2026-03-06,ChatGPT Plus,19.78
+2026-03-06,Disney+,14.01
+2026-03-06,Gym Membership,50.71
+2026-03-06,Substack VIP,7.89
+2026-03-07,Notion Pro,9.99
+2026-03-07,Amazon Retail,39.68
+2026-03-07,iCloud Storage,2.93
+2026-03-08,Netflix,16.12
+2026-03-09,iCloud Storage,2.97
+2026-03-09,ChatGPT Plus,20.12
+2026-03-09,Notion Pro,9.93
+2026-03-09,GitHub Pro,4.08
+2026-03-11,PlayStation Plus,17.7
+2026-03-12,NYTimes Digital,3.99
+2026-03-12,Spotify,10.92
+2026-03-14,GitHub Pro,3.96
+2026-03-14,Gym Membership,49.84
+2026-03-14,Airbnb Booking,442.28
+2026-03-14,Local Restaurant,53.39
+2026-03-14,Notion Pro,9.81
+2026-03-14,Airbnb Booking,148.04
+2026-03-16,iCloud Storage,2.98
+2026-03-16,Slack Workspace,8.46
+2026-03-16,Disney+,14.07
+2026-03-17,PlayStation Plus,17.9
+2026-03-18,AWS Hosting,44.96
+2026-03-18,Substack VIP,7.88
+2026-03-18,Netflix,16.13
+2026-03-18,CVS Pharmacy,36.48
+2026-03-19,iCloud Storage,3.0
+2026-03-19,Google One,2.0
+2026-03-19,Slack Workspace,8.89
+2026-03-20,Adobe Creative Cloud,54.3
+2026-03-20,NYTimes Digital,3.97
+2026-03-20,Netflix,15.89
+2026-03-21,Slack Workspace,8.67
+2026-03-21,Disney+,13.88
+2026-03-21,AWS Hosting,45.74
+2026-03-22,NYTimes Digital,4.03
+2026-03-22,Slack Workspace,8.77
+2026-03-22,Adobe Creative Cloud,55.18
+2026-03-22,Gym Membership,49.79
+2026-03-22,Google One,2.0
+2026-03-22,ChatGPT Plus,20.21
+2026-03-22,AWS Hosting,45.16
+2026-03-23,Substack VIP,8.1
+2026-03-24,Gym Membership,49.89
+2026-03-24,Notion Pro,10.04
+2026-03-24,Netflix,16.0
+2026-03-24,AWS Hosting,44.06
+2026-03-25,ChatGPT Plus,20.07
+2026-03-25,Notion Pro,10.04
+2026-03-25,Substack VIP,7.97
+2026-03-26,Spotify,11.13
+2026-03-26,CVS Pharmacy,8.03
+2026-03-26,Trader Joe's,87.6
+2026-03-26,Slack Workspace,8.85
+2026-03-26,CVS Pharmacy,12.23
+2026-03-27,Google One,2.0
+2026-03-28,GitHub Pro,4.01
+2026-03-28,Netflix,16.03
+2026-03-28,PlayStation Plus,17.99
+2026-03-29,Spotify,10.89
+2026-03-29,NYTimes Digital,3.97
+2026-03-29,Best Buy,208.91
+2026-03-29,Google One,1.94
+2026-03-30,Adobe Creative Cloud,54.03
+2026-03-30,Best Buy,203.99
+2026-03-30,Spotify,11.19
+2026-03-30,Disney+,13.79
+2026-03-31,Disney+,13.9
+2026-04-01,PlayStation Plus,18.05
+2026-04-01,GitHub Pro,3.93
+2026-04-01,Adobe Creative Cloud,54.78
+2026-04-02,Google One,1.99
+2026-04-02,GitHub Pro,3.97
+2026-04-02,Spotify,10.98
+2026-04-02,Gym Membership,49.23
+2026-04-03,PlayStation Plus,18.14
+2026-04-03,Substack VIP,7.95
+2026-04-03,ChatGPT Plus,20.31
+2026-04-04,iCloud Storage,3.01
+2026-04-04,NYTimes Digital,4.0
+2026-04-04,Disney+,14.06
+2026-04-04,CVS Pharmacy,24.9
+2026-04-05,Notion Pro,10.16
+2026-04-05,DoorDash Order,19.77
+2026-04-05,Gym Membership,50.17
+2026-04-05,Substack VIP,8.06
+2026-04-05,Adobe Creative Cloud,53.6
+2026-04-06,AWS Hosting,45.24
+2026-04-06,ChatGPT Plus,19.88
+2026-04-06,Local Restaurant,32.98
+2026-04-06,iCloud Storage,2.98
+2026-04-07,iCloud Storage,2.99
+2026-04-07,GitHub Pro,4.03
+2026-04-08,Starbucks Coffee,8.28
+2026-04-08,Netflix,16.43
+2026-04-09,ChatGPT Plus,20.1
+2026-04-09,Notion Pro,9.96
+2026-04-09,Shell Gas Station,43.38
+2026-04-10,PlayStation Plus,18.17
+2026-04-10,NYTimes Digital,4.03
+2026-04-10,Amazon Retail,17.19
+2026-04-11,Spotify,10.61
+2026-04-11,Shell Gas Station,38.44
+2026-04-12,Notion Pro,9.91
+2026-04-12,Gym Membership,50.07
+2026-04-14,iCloud Storage,3.02
+2026-04-15,GitHub Pro,3.99
+2026-04-15,Slack Workspace,8.85
+2026-04-15,Shell Gas Station,48.86
+2026-04-15,Delta Airlines,377.09
+2026-04-15,Disney+,13.96
+2026-04-16,AWS Hosting,45.24
+2026-04-16,PlayStation Plus,18.02
+2026-04-17,Substack VIP,7.93
+2026-04-17,Netflix,15.74
+2026-04-18,Netflix,15.94
+2026-04-18,Google One,1.96
+2026-04-19,Slack Workspace,8.81
+2026-04-19,Adobe Creative Cloud,55.78
+2026-04-19,NYTimes Digital,4.0
+2026-04-19,iCloud Storage,2.92
+2026-04-20,CVS Pharmacy,23.09
+2026-04-20,AWS Hosting,45.79
+2026-04-20,Disney+,13.99
+2026-04-20,Gym Membership,49.71
+2026-04-20,Slack Workspace,8.82
+2026-04-21,Adobe Creative Cloud,55.44
+2026-04-21,ChatGPT Plus,19.93
+2026-04-21,AWS Hosting,44.66
+2026-04-21,Slack Workspace,8.59
+2026-04-22,AWS Hosting,45.64
+2026-04-22,Google One,2.03
+2026-04-22,Substack VIP,8.1
+2026-04-22,NYTimes Digital,4.01
+2026-04-22,Delta Airlines,506.37
+2026-04-23,ChatGPT Plus,19.92
+2026-04-24,Gym Membership,50.69
+2026-04-24,Substack VIP,7.95
+2026-04-24,Notion Pro,10.05
+2026-04-24,DoorDash Order,38.93
+2026-04-24,Spotify,11.22
+2026-04-24,Notion Pro,9.88
+2026-04-24,Slack Workspace,8.84
+2026-04-24,Netflix,15.82
+2026-04-25,Google One,1.96
+2026-04-26,Spotify,11.16
+2026-04-26,Trader Joe's,106.06
+2026-04-26,PlayStation Plus,18.27
+2026-04-27,GitHub Pro,4.03
+2026-04-27,NYTimes Digital,4.07
+2026-04-28,Adobe Creative Cloud,54.92
+2026-04-28,Netflix,16.25
+2026-04-29,Google One,2.01
+2026-04-29,Spotify,11.03
+2026-04-30,Disney+,14.01
+2026-04-30,Disney+,13.99
+2026-05-01,PlayStation Plus,17.92
+2026-05-01,Gym Membership,50.62
+2026-05-01,GitHub Pro,3.92
+2026-05-02,Adobe Creative Cloud,54.34
+2026-05-02,Target Store,71.73
+2026-05-02,Substack VIP,8.03
+2026-05-02,GitHub Pro,3.99
+2026-05-02,Target Store,53.54
+2026-05-03,Google One,1.99
+2026-05-03,Uber Trip,40.57
+2026-05-03,ChatGPT Plus,19.98
+2026-05-03,PlayStation Plus,17.97
+2026-05-04,Spotify,10.83
+2026-05-04,Adobe Creative Cloud,55.7
+2026-05-04,Disney+,13.97
+2026-05-04,Best Buy,85.4
+2026-05-05,NYTimes Digital,3.98
+2026-05-05,AWS Hosting,44.53
+2026-05-05,Local Restaurant,60.83
+2026-05-05,Gym Membership,50.23
+2026-05-05,iCloud Storage,3.0
+2026-05-06,iCloud Storage,2.92
+2026-05-06,Substack VIP,8.08
+2026-05-06,Netflix,16.0
+2026-05-06,Notion Pro,9.96
+2026-05-06,ChatGPT Plus,19.82
+2026-05-08,iCloud Storage,2.99
+2026-05-08,Notion Pro,10.06
+2026-05-08,GitHub Pro,4.03
+2026-05-09,ChatGPT Plus,19.96
+2026-05-10,PlayStation Plus,18.21
+2026-05-10,Target Store,78.47
+2026-05-11,Notion Pro,9.96
+2026-05-11,NYTimes Digital,4.0
+2026-05-12,Gym Membership,49.32
+2026-05-12,Spotify,10.96
+2026-05-12,Target Store,82.13
+2026-05-12,Target Store,106.65
+2026-05-14,GitHub Pro,4.02
+2026-05-15,PlayStation Plus,18.0
+2026-05-15,Best Buy,91.87
+2026-05-15,Slack Workspace,8.79
+2026-05-16,Disney+,14.09
+2026-05-16,iCloud Storage,2.96
+2026-05-16,Substack VIP,8.05
+2026-05-17,Google One,1.99
+2026-05-17,Netflix,16.0
+2026-05-17,Target Store,89.83
+2026-05-17,AWS Hosting,45.08
+2026-05-18,Netflix,15.92
+2026-05-19,iCloud Storage,2.99
+2026-05-19,Adobe Creative Cloud,55.18
+2026-05-19,NYTimes Digital,4.11
+2026-05-20,Disney+,14.0
+2026-05-20,Gym Membership,50.46
+2026-05-20,Slack Workspace,8.74
+2026-05-20,Slack Workspace,8.61
+2026-05-20,Adobe Creative Cloud,54.17
+2026-05-20,CVS Pharmacy,30.22
+2026-05-20,AWS Hosting,44.84
+2026-05-20,AWS Hosting,44.96
+2026-05-20,Slack Workspace,8.78
+2026-05-21,ChatGPT Plus,19.98
+2026-05-22,Google One,2.0
+2026-05-23,Notion Pro,10.19
+2026-05-23,AWS Hosting,44.62
+2026-05-23,Gym Membership,49.98
+2026-05-23,Netflix,16.08
+2026-05-23,Notion Pro,9.78
+2026-05-23,ChatGPT Plus,20.08
+2026-05-23,Starbucks Coffee,4.76
+2026-05-23,NYTimes Digital,4.04
+2026-05-23,Substack VIP,7.91
+2026-05-24,Amazon Retail,121.18
+2026-05-24,Substack VIP,8.03
+2026-05-25,Slack Workspace,8.76
+2026-05-26,Google One,1.97
+2026-05-26,Spotify,10.78
+2026-05-26,Best Buy,268.54
+2026-05-27,GitHub Pro,3.96
+2026-05-27,Netflix,16.04
+2026-05-27,Local Restaurant,81.33
+2026-05-27,Spotify,10.98
+2026-05-28,Google One,2.02
+2026-05-28,PlayStation Plus,17.77
+2026-05-28,Spotify,11.06
+2026-05-28,Disney+,14.09
+2026-05-28,Adobe Creative Cloud,54.67
+2026-05-28,NYTimes Digital,3.96
+2026-05-31,PlayStation Plus,18.19
+2026-05-31,Substack VIP,8.2
+2026-05-31,Disney+,13.87
+2026-05-31,GitHub Pro,3.98
+2026-05-31,Amazon Retail,57.49
+2026-06-01,Adobe Creative Cloud,54.53
+2026-06-01,GitHub Pro,4.03
+2026-06-01,Google One,1.98
+2026-06-02,ChatGPT Plus,20.07
+2026-06-02,PlayStation Plus,18.04
+2026-06-02,Spotify,10.97
+2026-06-02,Gym Membership,50.08
+2026-06-02,Adobe Creative Cloud,56.11
+2026-06-02,NYTimes Digital,4.06
+2026-06-03,Target Store,77.75
+2026-06-04,ChatGPT Plus,20.04
+2026-06-04,Disney+,13.94
+2026-06-04,Gym Membership,49.38
+2026-06-04,iCloud Storage,2.97
+2026-06-05,AWS Hosting,44.91
+2026-06-05,iCloud Storage,2.99
+2026-06-05,Substack VIP,7.94
+2026-06-06,Notion Pro,9.98
+2026-06-07,Notion Pro,10.24
+2026-06-07,iCloud Storage,2.98
+2026-06-07,Netflix,15.99
+2026-06-07,GitHub Pro,4.07
+2026-06-08,ChatGPT Plus,19.91
+2026-06-09,Airbnb Booking,153.78
+2026-06-09,PlayStation Plus,18.15
+2026-06-09,CVS Pharmacy,39.6
+2026-06-10,Trader Joe's,68.59
+2026-06-10,NYTimes Digital,4.04
+2026-06-11,Airbnb Booking,411.99
+2026-06-11,Spotify,11.09
+2026-06-12,Gym Membership,50.27
+2026-06-12,Notion Pro,10.19
+2026-06-12,Amazon Retail,64.45
+2026-06-13,PlayStation Plus,17.84
+2026-06-13,Trader Joe's,61.6
+2026-06-14,Slack Workspace,8.77
+2026-06-14,GitHub Pro,4.05
+2026-06-15,AWS Hosting,45.25
+2026-06-15,Disney+,14.05
+2026-06-15,iCloud Storage,2.95
+2026-06-15,Netflix,15.84
+2026-06-16,CVS Pharmacy,8.59
+2026-06-16,Google One,2.0
+2026-06-16,Substack VIP,7.98
+2026-06-17,Netflix,15.77
+2026-06-17,iCloud Storage,2.97
+2026-06-18,Gym Membership,50.0
+2026-06-18,Adobe Creative Cloud,55.24
+2026-06-18,Slack Workspace,8.79
+2026-06-18,AWS Hosting,45.7
+2026-06-19,Adobe Creative Cloud,54.24
+2026-06-19,AWS Hosting,45.79
+2026-06-19,Slack Workspace,8.53
+2026-06-19,NYTimes Digital,3.93
+2026-06-20,DoorDash Order,37.44
+2026-06-20,Disney+,13.9
+2026-06-20,Slack Workspace,8.83
+2026-06-21,NYTimes Digital,4.0
+2026-06-21,ChatGPT Plus,20.24
+2026-06-21,Gym Membership,50.88
+2026-06-21,Substack VIP,8.18
+2026-06-21,Google One,1.98
+2026-06-22,Starbucks Coffee,5.79
+2026-06-22,AWS Hosting,45.77
+2026-06-22,Netflix,15.79
+2026-06-22,ChatGPT Plus,19.92
+2026-06-22,Notion Pro,10.13
+2026-06-22,Notion Pro,9.98
+2026-06-23,Trader Joe's,52.87
+2026-06-23,Starbucks Coffee,6.13
+2026-06-24,Spotify,11.04
+2026-06-24,Starbucks Coffee,7.53
+2026-06-24,Substack VIP,7.97
+2026-06-25,Slack Workspace,8.74
+2026-06-25,Google One,2.0
+2026-06-26,Spotify,11.1
+2026-06-26,NYTimes Digital,3.96
+2026-06-26,PlayStation Plus,18.1
+2026-06-26,GitHub Pro,4.07
+2026-06-26,Netflix,15.71
+2026-06-27,Adobe Creative Cloud,55.06
+2026-06-27,Google One,1.97
+2026-06-28,Disney+,13.76
+2026-06-29,Spotify,11.14
+2026-06-29,Disney+,13.86
+2026-06-30,Target Store,18.35
+2026-06-30,PlayStation Plus,18.08

@@ -1,0 +1,125 @@
+0 verbose cli D:\Nodejs\node.exe D:\Nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.11.0
+2 info using node@v24.14.1
+3 silly config load:file:D:\Nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\PRANITA\Documents\Codex\2026-08-26\referenced-chatgpt-conversation-this-is-an\frontend\.npmrc
+5 silly config load:file:C:\Users\PRANITA\.npmrc
+6 silly config load:file:C:\Users\PRANITA\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" ".npm-cache"
+9 verbose logfile logs-max:10 dir:C:\Users\PRANITA\Documents\Codex\2026-08-26\referenced-chatgpt-conversation-this-is-an\frontend\.npm-cache\_logs\2026-08-26T12_28_11_821Z-
+10 verbose logfile C:\Users\PRANITA\Documents\Codex\2026-08-26\referenced-chatgpt-conversation-this-is-an\frontend\.npm-cache\_logs\2026-08-26T12_28_11_821Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+13 silly idealTree buildDeps
+14 silly fetch manifest @types/react@latest
+15 silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/@types%2freact 794ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:undefined disposed:false
+18 silly fetch manifest @types/react-dom@latest
+19 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 192ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom set size:undefined disposed:false
+22 silly placeDep ROOT @types/react@19.2.18 OK for: subtrackr-web@0.1.0 want: latest
+23 silly placeDep ROOT @types/react-dom@19.2.5 OK for: subtrackr-web@0.1.0 want: latest
+24 silly fetch manifest csstype@^3.2.2
+25 silly packumentCache full:https://registry.npmjs.org/csstype cache-miss
+26 http fetch GET 200 https://registry.npmjs.org/csstype 156ms (cache miss)
+27 silly packumentCache full:https://registry.npmjs.org/csstype set size:undefined disposed:false
+28 silly placeDep ROOT csstype@3.2.3 OK for: @types/react@19.2.18 want: ^3.2.2
+29 silly fetch manifest @rolldown/binding-openharmony-arm64@1.2.6
+30 silly packumentCache full:https://registry.npmjs.org/@rolldown%2fbinding-openharmony-arm64 cache-miss
+31 http cache https://registry.npmjs.org/@rolldown%2fbinding-openharmony-arm64 16ms (cache hit)
+32 silly packumentCache full:https://registry.npmjs.org/@rolldown%2fbinding-openharmony-arm64 set size:137707 disposed:false
+33 silly placeDep node_modules/rolldown @rolldown/binding-openharmony-arm64@ REPLACE for: rolldown@1.2.6 want: 1.2.6
+34 silly reify moves {}
+35 silly audit bulk request {
+35 silly audit   '@oxc-project/types': [ '0.147.0' ],
+35 silly audit   '@rolldown/binding-android-arm-eabi': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-android-arm64': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-darwin-arm64': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-darwin-x64': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-freebsd-x64': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-arm-gnueabihf': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-arm64-gnu': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-arm64-musl': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-ppc64-gnu': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-s390x-gnu': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-x64-gnu': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-linux-x64-musl': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-win32-arm64-msvc': [ '1.2.6' ],
+35 silly audit   '@rolldown/binding-win32-x64-msvc': [ '1.2.6' ],
+35 silly audit   '@rolldown/pluginutils': [ '1.0.1' ],
+35 silly audit   '@typescript/typescript-aix-ppc64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-darwin-arm64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-darwin-x64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-freebsd-arm64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-freebsd-x64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-arm': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-arm64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-loong64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-mips64el': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-ppc64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-riscv64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-s390x': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-linux-x64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-netbsd-arm64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-netbsd-x64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-openbsd-arm64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-openbsd-x64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-sunos-x64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-win32-arm64': [ '7.0.2' ],
+35 silly audit   '@typescript/typescript-win32-x64': [ '7.0.2' ],
+35 silly audit   '@vitejs/plugin-react': [ '6.1.0' ],
+35 silly audit   'detect-libc': [ '2.1.2' ],
+35 silly audit   fdir: [ '6.5.0' ],
+35 silly audit   fsevents: [ '2.3.3' ],
+35 silly audit   lightningcss: [ '1.33.0' ],
+35 silly audit   'lightningcss-android-arm64': [ '1.33.0' ],
+35 silly audit   'lightningcss-darwin-arm64': [ '1.33.0' ],
+35 silly audit   'lightningcss-darwin-x64': [ '1.33.0' ],
+35 silly audit   'lightningcss-freebsd-x64': [ '1.33.0' ],
+35 silly audit   'lightningcss-linux-arm-gnueabihf': [ '1.33.0' ],
+35 silly audit   'lightningcss-linux-arm64-gnu': [ '1.33.0' ],
+35 silly audit   'lightningcss-linux-arm64-musl': [ '1.33.0' ],
+35 silly audit   'lightningcss-linux-x64-gnu': [ '1.33.0' ],
+35 silly audit   'lightningcss-linux-x64-musl': [ '1.33.0' ],
+35 silly audit   'lightningcss-win32-arm64-msvc': [ '1.33.0' ],
+35 silly audit   'lightningcss-win32-x64-msvc': [ '1.33.0' ],
+35 silly audit   'lucide-react': [ '1.34.0' ],
+35 silly audit   nanoid: [ '3.3.18' ],
+35 silly audit   picocolors: [ '1.1.1' ],
+35 silly audit   picomatch: [ '4.0.7' ],
+35 silly audit   postcss: [ '8.5.26' ],
+35 silly audit   react: [ '19.2.8' ],
+35 silly audit   'react-dom': [ '19.2.8' ],
+35 silly audit   rolldown: [ '1.2.6' ],
+35 silly audit   scheduler: [ '0.27.0' ],
+35 silly audit   'source-map-js': [ '1.2.1' ],
+35 silly audit   tinyglobby: [ '0.2.17' ],
+35 silly audit   typescript: [ '7.0.2' ],
+35 silly audit   vite: [ '8.2.2' ],
+35 silly audit   '@types/react': [ '19.2.18' ],
+35 silly audit   '@types/react-dom': [ '19.2.5' ],
+35 silly audit   csstype: [ '3.2.3' ]
+35 silly audit }
+36 http cache csstype@https://registry.npmjs.org/csstype/-/csstype-3.2.3.tgz 0ms (cache hit)
+37 http cache @types/react@https://registry.npmjs.org/@types/react/-/react-19.2.18.tgz 0ms (cache hit)
+38 http cache @types/react-dom@https://registry.npmjs.org/@types/react-dom/-/react-dom-19.2.5.tgz 0ms (cache hit)
+39 silly tarball no local data for csstype@https://registry.npmjs.org/csstype/-/csstype-3.2.3.tgz. Extracting by manifest.
+40 silly tarball no local data for @types/react@https://registry.npmjs.org/@types/react/-/react-19.2.18.tgz. Extracting by manifest.
+41 silly tarball no local data for @types/react-dom@https://registry.npmjs.org/@types/react-dom/-/react-dom-19.2.5.tgz. Extracting by manifest.
+42 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 323ms
+43 silly audit report {}
+44 http fetch GET 200 https://registry.npmjs.org/@types/react-dom/-/react-dom-19.2.5.tgz 349ms (cache miss)
+45 http fetch GET 200 https://registry.npmjs.org/@types/react/-/react-19.2.18.tgz 370ms (cache miss)
+46 http fetch GET 200 https://registry.npmjs.org/csstype/-/csstype-3.2.3.tgz 405ms (cache miss)
+47 silly ADD node_modules/csstype
+48 silly ADD node_modules/@types/react-dom
+49 silly ADD node_modules/@types/react
+50 verbose cwd C:\Users\PRANITA\Documents\Codex\2026-08-26\referenced-chatgpt-conversation-this-is-an\frontend
+51 verbose os Windows_NT 10.0.26200
+52 verbose node v24.14.1
+53 verbose npm  v11.11.0
+54 verbose exit 0
+55 info ok
